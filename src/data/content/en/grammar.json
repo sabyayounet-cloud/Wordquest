@@ -1,0 +1,66 @@
+{
+  "module": "grammar",
+  "language": "en",
+  "levels": [
+    {
+      "id": "gram-1", "title": "Nouns & Verbs", "description": "Learn about nouns and verbs", "ageGroup": "4-6", "difficulty": 1, "requiredCorrect": 7,
+      "questions": [
+        { "id": "gr-1-1", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Which word is a noun (a thing)?", "options": ["Dog", "Run", "Fast", "Happy"], "correctAnswer": "Dog" },
+        { "id": "gr-1-2", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Which word is an action (verb)?", "options": ["Jump", "Ball", "Big", "Red"], "correctAnswer": "Jump" },
+        { "id": "gr-1-3", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "'Cat' is a noun", "correctAnswer": "true" },
+        { "id": "gr-1-4", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "'Sing' is a noun", "correctAnswer": "false" },
+        { "id": "gr-1-5", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "What is the plural of 'cat'?", "options": ["Cats", "Cates", "Cat", "Catts"], "correctAnswer": "Cats" },
+        { "id": "gr-1-6", "type": "fill-in-blank", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "The bird ___ in the sky", "options": ["flies", "blue", "tree", "big"], "correctAnswer": "flies" },
+        { "id": "gr-1-7", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Which is a color word (adjective)?", "options": ["Blue", "Run", "Eat", "Go"], "correctAnswer": "Blue" },
+        { "id": "gr-1-8", "type": "fill-in-blank", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "I ___ a red apple", "options": ["have", "big", "the", "red"], "correctAnswer": "have" },
+        { "id": "gr-1-9", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Which word is a person?", "options": ["Teacher", "Table", "Running", "Slowly"], "correctAnswer": "Teacher" },
+        { "id": "gr-1-10", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "'Happy' describes how you feel", "correctAnswer": "true" }
+      ]
+    },
+    {
+      "id": "gram-2", "title": "Parts of Speech", "description": "Adjectives, adverbs, and pronouns", "ageGroup": "7-9", "difficulty": 2, "requiredCorrect": 7,
+      "questions": [
+        { "id": "gr-2-1", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Which is an adjective?", "options": ["Beautiful", "Quickly", "Run", "She"], "correctAnswer": "Beautiful" },
+        { "id": "gr-2-2", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Which pronoun replaces 'the boy'?", "options": ["He", "She", "It", "They"], "correctAnswer": "He" },
+        { "id": "gr-2-3", "type": "fill-in-blank", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "The rabbit ran ___", "options": ["quickly", "happy", "green", "table"], "correctAnswer": "quickly" },
+        { "id": "gr-2-4", "type": "true-false", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "'Slowly' is an adverb", "correctAnswer": "true" },
+        { "id": "gr-2-5", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "What is the past tense of 'go'?", "options": ["Went", "Goed", "Goes", "Going"], "correctAnswer": "Went" },
+        { "id": "gr-2-6", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "What is the past tense of 'run'?", "correctAnswer": "ran" },
+        { "id": "gr-2-7", "type": "fill-in-blank", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "___ are going to the park", "options": ["We", "Us", "Our", "Ours"], "correctAnswer": "We" },
+        { "id": "gr-2-8", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Which is correct?", "options": ["She is taller than me.", "She is more taller than me.", "She is tallest than me.", "She is tall than me."], "correctAnswer": "She is taller than me." },
+        { "id": "gr-2-9", "type": "true-false", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "'A' and 'an' are called articles", "correctAnswer": "true" },
+        { "id": "gr-2-10", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "When do you use 'an'?", "options": ["Before a vowel sound", "Before a consonant", "After a period", "Never"], "correctAnswer": "Before a vowel sound" }
+      ]
+    },
+    {
+      "id": "gram-3", "title": "Tenses & Agreement", "description": "Master verb tenses and subject agreement", "ageGroup": "10-12", "difficulty": 3, "requiredCorrect": 7,
+      "questions": [
+        { "id": "gr-3-1", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Which is present perfect tense?", "options": ["I have eaten.", "I eat.", "I ate.", "I will eat."], "correctAnswer": "I have eaten." },
+        { "id": "gr-3-2", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "She ___ been waiting for an hour", "options": ["has", "have", "is", "are"], "correctAnswer": "has" },
+        { "id": "gr-3-3", "type": "typing", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "What tense: 'I will be running'?", "correctAnswer": "future" },
+        { "id": "gr-3-4", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Which has correct subject-verb agreement?", "options": ["The dogs bark loudly.", "The dogs barks loudly.", "The dog bark loudly.", "The dogs is barking."], "correctAnswer": "The dogs bark loudly." },
+        { "id": "gr-3-5", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "'Neither the cats nor the dog is happy' is grammatically correct", "correctAnswer": "true" },
+        { "id": "gr-3-6", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "If I ___ you, I would study harder", "options": ["were", "was", "am", "is"], "correctAnswer": "were" },
+        { "id": "gr-3-7", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "What is a preposition?", "options": ["A word showing position or direction", "A naming word", "An action word", "A describing word"], "correctAnswer": "A word showing position or direction" },
+        { "id": "gr-3-8", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "The book is ___ the table", "options": ["on", "eat", "happy", "run"], "correctAnswer": "on" },
+        { "id": "gr-3-9", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "A conjunction joins words or sentences together", "correctAnswer": "true" },
+        { "id": "gr-3-10", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Which sentence has a dangling modifier?", "options": ["Walking to school, the rain started.", "Walking to school, I got wet.", "I walked to school in the rain.", "The rain fell while I walked."], "correctAnswer": "Walking to school, the rain started." }
+      ]
+    },
+    {
+      "id": "gram-4", "title": "Advanced Grammar", "description": "Complex grammar rules", "ageGroup": "13-15", "difficulty": 4, "requiredCorrect": 7,
+      "questions": [
+        { "id": "gr-4-1", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Which uses the subjunctive mood?", "options": ["If I were rich, I'd travel.", "If I was rich, I'd travel.", "If I am rich, I travel.", "If I be rich, I travel."], "correctAnswer": "If I were rich, I'd travel." },
+        { "id": "gr-4-2", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "The committee ___ divided on the issue", "options": ["was", "were", "is been", "are being"], "correctAnswer": "was" },
+        { "id": "gr-4-3", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "An Oxford comma is placed before 'and' in a list of three or more items", "correctAnswer": "true" },
+        { "id": "gr-4-4", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Which is a gerund?", "options": ["Swimming is fun.", "I swam yesterday.", "She will swim.", "They are swimmers."], "correctAnswer": "Swimming is fun." },
+        { "id": "gr-4-5", "type": "typing", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "What do you call a verb form used as a noun? (starts with 'g')", "correctAnswer": "gerund" },
+        { "id": "gr-4-6", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Which sentence uses 'who' correctly?", "options": ["The teacher who helped me was kind.", "The teacher whom helped me was kind.", "The teacher which helped me was kind.", "The teacher what helped me was kind."], "correctAnswer": "The teacher who helped me was kind." },
+        { "id": "gr-4-7", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "The data ___ collected over five years", "options": ["were", "was", "is", "has"], "correctAnswer": "were" },
+        { "id": "gr-4-8", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "A split infinitive is when a word is placed between 'to' and the verb", "correctAnswer": "true" },
+        { "id": "gr-4-9", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Which is an independent clause?", "options": ["She went to the store.", "Because she was hungry.", "Although it rained.", "While we waited."], "correctAnswer": "She went to the store." },
+        { "id": "gr-4-10", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Neither the students nor the teacher ___ aware of the change", "options": ["was", "were", "are", "been"], "correctAnswer": "was" }
+      ]
+    }
+  ]
+}

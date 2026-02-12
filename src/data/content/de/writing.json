@@ -1,0 +1,66 @@
+{
+  "module": "writing",
+  "language": "de",
+  "levels": [
+    {
+      "id": "write-1", "title": "Erstes Schreiben", "description": "Beginne Wörter und Sätze zu schreiben", "ageGroup": "4-6", "difficulty": 1, "requiredCorrect": 7,
+      "questions": [
+        { "id": "wr-1-1", "type": "typing", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Schreibe das Wort für dieses Tier: 🐱", "correctAnswer": "Katze" },
+        { "id": "wr-1-2", "type": "typing", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Schreibe die Farbe des Himmels", "correctAnswer": "blau" },
+        { "id": "wr-1-3", "type": "fill-in-blank", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Mein Name ___ ...", "options": ["ist", "am", "auf", "in"], "correctAnswer": "ist" },
+        { "id": "wr-1-4", "type": "drag-and-drop", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Schreibe einen Satz:", "words": ["Ich", "mag", "Hunde"], "correctAnswer": "Ich mag Hunde" },
+        { "id": "wr-1-5", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Was beginnt einen Satz richtig?", "options": ["Die Katze", "die katze", "DIE KATZE", "dIe KaTzE"], "correctAnswer": "Die Katze" },
+        { "id": "wr-1-6", "type": "typing", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Schreibe das Wort für diese Frucht: 🍌", "correctAnswer": "Banane" },
+        { "id": "wr-1-7", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Sätze beginnen mit einem Großbuchstaben", "correctAnswer": "true" },
+        { "id": "wr-1-8", "type": "drag-and-drop", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Schreibe einen Satz:", "words": ["Sie", "ist", "froh"], "correctAnswer": "Sie ist froh" },
+        { "id": "wr-1-9", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Was steht am Ende? 'Ich sehe einen Vogel___'", "options": [".", "!", "?", ","], "correctAnswer": "." },
+        { "id": "wr-1-10", "type": "typing", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Schreibe das Zahlwort: 3", "correctAnswer": "drei" }
+      ]
+    },
+    {
+      "id": "write-2", "title": "Kreative Sätze", "description": "Beschreibende Sätze schreiben", "ageGroup": "7-9", "difficulty": 2, "requiredCorrect": 7,
+      "questions": [
+        { "id": "wr-2-1", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Schreibe das Gegenteil von 'fröhlich'", "correctAnswer": "traurig" },
+        { "id": "wr-2-2", "type": "fill-in-blank", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Der ___ Hund rannte durch den Park", "options": ["verspielte", "Gebäude", "weil", "unter"], "correctAnswer": "verspielte" },
+        { "id": "wr-2-3", "type": "drag-and-drop", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Baue einen beschreibenden Satz:", "words": ["Der", "große", "braune", "Bär", "schläft"], "correctAnswer": "Der große braune Bär schläft" },
+        { "id": "wr-2-4", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Welcher Satz hat ein Adjektiv?", "options": ["Der hohe Baum fiel.", "Sie rannte.", "Geh jetzt.", "Ich aß."], "correctAnswer": "Der hohe Baum fiel." },
+        { "id": "wr-2-5", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Schreibe ein Wort, das beschreibt, wie eine Schnecke sich bewegt", "correctAnswer": "langsam" },
+        { "id": "wr-2-6", "type": "fill-in-blank", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Sie sang ___ beim Konzert", "options": ["wunderschön", "Stuhl", "lila", "Montag"], "correctAnswer": "wunderschön" },
+        { "id": "wr-2-7", "type": "true-false", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Ein Satz braucht ein Subjekt und ein Verb", "correctAnswer": "true" },
+        { "id": "wr-2-8", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Wie nennt man ein 'beschreibendes Wort'?", "options": ["Adjektiv", "Nomen", "Verb", "Pronomen"], "correctAnswer": "Adjektiv" },
+        { "id": "wr-2-9", "type": "drag-and-drop", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Baue einen Satz:", "words": ["Mein", "Freund", "liebt", "Eis"], "correctAnswer": "Mein Freund liebt Eis" },
+        { "id": "wr-2-10", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Schreibe ein Wort, das 'sehr kalt' bedeutet", "correctAnswer": "eisig" }
+      ]
+    },
+    {
+      "id": "write-3", "title": "Absätze schreiben", "description": "Texte in Absätze gliedern", "ageGroup": "10-12", "difficulty": 3, "requiredCorrect": 7,
+      "questions": [
+        { "id": "wr-3-1", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Womit sollte ein Absatz beginnen?", "options": ["Einem Einleitungssatz", "Einem Schluss", "Einer Frage", "Einer Zahl"], "correctAnswer": "Einem Einleitungssatz" },
+        { "id": "wr-3-2", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Gutes Schreiben benutzt ___ Wörter statt immer dieselben", "options": ["verschiedene", "gleiche", "große", "kleine"], "correctAnswer": "verschiedene" },
+        { "id": "wr-3-3", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Jeder Absatz sollte sich auf eine Hauptidee konzentrieren", "correctAnswer": "true" },
+        { "id": "wr-3-4", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Welches ist ein besseres Wort als 'sagte' für eine wütende Figur?", "options": ["Schrie", "Flüsterte", "Murmelte", "Sang"], "correctAnswer": "Schrie" },
+        { "id": "wr-3-5", "type": "typing", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Welches Wort bedeutet 'ein Vergleich mit wie'?", "correctAnswer": "Vergleich" },
+        { "id": "wr-3-6", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Zusammenfassend ist ___ wichtig für die Gesundheit", "options": ["Bewegung", "weil", "obwohl", "laufen"], "correctAnswer": "Bewegung" },
+        { "id": "wr-3-7", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Was macht Schreiben interessanter?", "options": ["Unterschiedliche Satzlängen", "Nur kurze Sätze", "Keine Adjektive", "Wörter wiederholen"], "correctAnswer": "Unterschiedliche Satzlängen" },
+        { "id": "wr-3-8", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Ein Aufsatz braucht eine Einleitung, einen Hauptteil und einen Schluss", "correctAnswer": "true" },
+        { "id": "wr-3-9", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Welches Übergangswort zeigt einen Gegensatz?", "options": ["Jedoch", "Auch", "Dann", "Schließlich"], "correctAnswer": "Jedoch" },
+        { "id": "wr-3-10", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Zeigen, nicht ___: benutze beschreibende Details", "options": ["erzählen", "rennen", "sehen", "schreiben"], "correctAnswer": "erzählen" }
+      ]
+    },
+    {
+      "id": "write-4", "title": "Aufsätze schreiben", "description": "Aufsatzstruktur und Argumentation meistern", "ageGroup": "13-15", "difficulty": 4, "requiredCorrect": 7,
+      "questions": [
+        { "id": "wr-4-1", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Was ist eine These?", "options": ["Das Hauptargument eines Aufsatzes", "Der Titel", "Eine Frage", "Das Literaturverzeichnis"], "correctAnswer": "Das Hauptargument eines Aufsatzes" },
+        { "id": "wr-4-2", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Ein überzeugender Aufsatz nutzt ___ um den Leser zu überzeugen", "options": ["Beweise", "Farben", "Bilder", "Zahlen"], "correctAnswer": "Beweise" },
+        { "id": "wr-4-3", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Ein Gegenargument erkennt die gegensätzliche Sichtweise an", "correctAnswer": "true" },
+        { "id": "wr-4-4", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Was ist der stärkste Einstieg für einen Aufsatz?", "options": ["Eine überraschende Statistik", "In diesem Aufsatz werde ich...", "Hallo Leser", "Es war einmal"], "correctAnswer": "Eine überraschende Statistik" },
+        { "id": "wr-4-5", "type": "typing", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Welche Aufsatzart erzählt eine persönliche Geschichte?", "correctAnswer": "Erzählung" },
+        { "id": "wr-4-6", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Was bedeutet 'Quellen angeben'?", "options": ["Herkunft der Informationen nennen", "In Schreibschrift schreiben", "Große Wörter benutzen", "Längere Sätze schreiben"], "correctAnswer": "Herkunft der Informationen nennen" },
+        { "id": "wr-4-7", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Der ___ fasst zusammen und wiederholt die These", "options": ["Schluss", "erste", "mittlere", "zweite"], "correctAnswer": "Schluss" },
+        { "id": "wr-4-8", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Plagiat bedeutet, die Arbeit anderer ohne Angabe zu kopieren", "correctAnswer": "true" },
+        { "id": "wr-4-9", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Welche Schreibtechnik erzeugt Empathie?", "options": ["Spezifische Details und Emotionen", "In Großbuchstaben schreiben", "Nur Fakten verwenden", "Listen machen"], "correctAnswer": "Spezifische Details und Emotionen" },
+        { "id": "wr-4-10", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Was ist der Zweck der Überarbeitung?", "options": ["Schreiben verbessern und verfeinern", "Es länger machen", "Bilder hinzufügen", "Das Thema ändern"], "correctAnswer": "Schreiben verbessern und verfeinern" }
+      ]
+    }
+  ]
+}

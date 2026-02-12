@@ -1,0 +1,66 @@
+{
+  "module": "sentences",
+  "language": "nl",
+  "levels": [
+    {
+      "id": "sent-1", "title": "Eenvoudige Zinnen", "description": "Bouw je eerste zinnen", "ageGroup": "4-6", "difficulty": 1, "requiredCorrect": 7,
+      "questions": [
+        { "id": "se-1-1", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Welke is een complete zin?", "options": ["Ik hou van katten.", "katten van", "Ik katten", "van"], "correctAnswer": "Ik hou van katten." },
+        { "id": "se-1-2", "type": "drag-and-drop", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Zet de woorden in volgorde:", "words": ["Ik", "ben", "blij"], "correctAnswer": "Ik ben blij" },
+        { "id": "se-1-3", "type": "drag-and-drop", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Zet de woorden in volgorde:", "words": ["De", "kat", "is", "groot"], "correctAnswer": "De kat is groot" },
+        { "id": "se-1-4", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Wat staat aan het einde van een zin?", "options": ["Een punt (.)", "Een ster (*)", "Een streep (-)", "Niets"], "correctAnswer": "Een punt (.)" },
+        { "id": "se-1-5", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "'Zij rent snel.' is een zin", "correctAnswer": "true" },
+        { "id": "se-1-6", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "'Snel rent de.' is een goede zin", "correctAnswer": "false" },
+        { "id": "se-1-7", "type": "fill-in-blank", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "De hond ___ snel", "options": ["rent", "stoel", "blauw", "de"], "correctAnswer": "rent" },
+        { "id": "se-1-8", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Welke zin gaat over eten?", "options": ["Ik eet appels.", "Ik ren snel.", "Ik zie een vogel.", "Ik heb een speelgoed."], "correctAnswer": "Ik eet appels." },
+        { "id": "se-1-9", "type": "drag-and-drop", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Zet de woorden in volgorde:", "words": ["Zij", "heeft", "een", "hond"], "correctAnswer": "Zij heeft een hond" },
+        { "id": "se-1-10", "type": "fill-in-blank", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Ik ___ naar school", "options": ["ga", "eet", "vlieg", "zwem"], "correctAnswer": "ga" }
+      ]
+    },
+    {
+      "id": "sent-2", "title": "Betere Zinnen", "description": "Maak langere en betere zinnen", "ageGroup": "7-9", "difficulty": 2, "requiredCorrect": 7,
+      "questions": [
+        { "id": "se-2-1", "type": "drag-and-drop", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Bouw een zin:", "words": ["De", "hond", "jaagt", "op", "de", "bal"], "correctAnswer": "De hond jaagt op de bal" },
+        { "id": "se-2-2", "type": "fill-in-blank", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Zij ___ gisteren naar de winkel", "options": ["ging", "gaat", "gaand", "gaan"], "correctAnswer": "ging" },
+        { "id": "se-2-3", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Welke zin gebruikt 'en' goed?", "options": ["Ik hou van katten en honden.", "Ik en hou katten honden van.", "En ik katten hou honden van.", "Katten ik en hou honden van."], "correctAnswer": "Ik hou van katten en honden." },
+        { "id": "se-2-4", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Welk leesteken staat aan het einde van een vraag?", "correctAnswer": "?" },
+        { "id": "se-2-5", "type": "true-false", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "'Waar ga je naartoe?' is een vraag", "correctAnswer": "true" },
+        { "id": "se-2-6", "type": "fill-in-blank", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Zij ___ in de tuin aan het spelen", "options": ["zijn", "is", "ben", "was"], "correctAnswer": "zijn" },
+        { "id": "se-2-7", "type": "drag-and-drop", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Bouw een vraag:", "words": ["Waar", "is", "de", "kat"], "correctAnswer": "Waar is de kat" },
+        { "id": "se-2-8", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Welk woord verbindt twee ideeën?", "options": ["omdat", "blij", "rennen", "blauw"], "correctAnswer": "omdat" },
+        { "id": "se-2-9", "type": "true-false", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Een uitroepteken (!) toont sterke gevoelens", "correctAnswer": "true" },
+        { "id": "se-2-10", "type": "fill-in-blank", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Hij ___ niet van spinazie", "options": ["houdt", "houd", "is", "zijn"], "correctAnswer": "houdt" }
+      ]
+    },
+    {
+      "id": "sent-3", "title": "Samengestelde Zinnen", "description": "Ideeën combineren met voegwoorden", "ageGroup": "10-12", "difficulty": 3, "requiredCorrect": 7,
+      "questions": [
+        { "id": "se-3-1", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Ik ging naar binnen ___ het begon te regenen", "options": ["omdat", "maar", "of", "dus"], "correctAnswer": "omdat" },
+        { "id": "se-3-2", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Welke is een samengestelde zin?", "options": ["Ik rende en zij liep.", "Ik rende.", "Snel rennend.", "De grote rode hond."], "correctAnswer": "Ik rende en zij liep." },
+        { "id": "se-3-3", "type": "drag-and-drop", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Bouw een samengestelde zin:", "words": ["Hoewel", "het", "regende", "speelden", "we", "door"], "correctAnswer": "Hoewel het regende speelden we door" },
+        { "id": "se-3-4", "type": "typing", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Welk voegwoord betekent 'desondanks'? (e____)", "correctAnswer": "echter" },
+        { "id": "se-3-5", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "'Voordat je vertrekt, sluit het raam' is een samengestelde zin", "correctAnswer": "true" },
+        { "id": "se-3-6", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Ze studeerde hard, ___ slaagde ze voor de toets", "options": ["daarom", "hoewel", "tenzij", "voordat"], "correctAnswer": "daarom" },
+        { "id": "se-3-7", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Welke zin gebruikt een puntkomma goed?", "options": ["Ik lees graag; zij schrijft liever.", "Ik graag; lees zij schrijft.", "; Ik lees graag zij schrijft.", "Ik lees graag zij; schrijft liever."], "correctAnswer": "Ik lees graag; zij schrijft liever." },
+        { "id": "se-3-8", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Een hoofdzin kan zelfstandig staan", "correctAnswer": "true" },
+        { "id": "se-3-9", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "___ het weer verbetert, wordt de wedstrijd afgelast", "options": ["Tenzij", "Omdat", "Nadat", "Sinds"], "correctAnswer": "Tenzij" },
+        { "id": "se-3-10", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Wat is een topiczin?", "options": ["De eerste zin van een alinea", "De laatste zin", "Een vraag", "Een titel"], "correctAnswer": "De eerste zin van een alinea" }
+      ]
+    },
+    {
+      "id": "sent-4", "title": "Schrijfstijl", "description": "Beheers zinsvariatie en stijl", "ageGroup": "13-15", "difficulty": 4, "requiredCorrect": 7,
+      "questions": [
+        { "id": "se-4-1", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Welke zin is in de actieve vorm?", "options": ["De kok bereidde het eten.", "Het eten werd door de kok bereid.", "Het eten werd bereid.", "Bereid werd het eten."], "correctAnswer": "De kok bereidde het eten." },
+        { "id": "se-4-2", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "___ het bewijs anders suggereert, blijft de theorie populair", "options": ["Hoewel", "Omdat", "Sinds", "Nadat"], "correctAnswer": "Hoewel" },
+        { "id": "se-4-3", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "De passieve vorm is altijd fout in teksten", "correctAnswer": "false" },
+        { "id": "se-4-4", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Wat is een retorische vraag?", "options": ["Wie houdt er niet van zonneschijn?", "Hoe laat is het?", "Waar is de bibliotheek?", "Hoe oud ben je?"], "correctAnswer": "Wie houdt er niet van zonneschijn?" },
+        { "id": "se-4-5", "type": "typing", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Welk stijlmiddel herhaalt de beginletter? (voorbeeld: Peter pakt pannenkoeken)", "correctAnswer": "alliteratie" },
+        { "id": "se-4-6", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Het onderzoek ___ dat klimaatverandering versnelt", "options": ["toont", "blij", "rent", "blauw"], "correctAnswer": "toont" },
+        { "id": "se-4-7", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Welke zin heeft parallelle structuur?", "options": ["Ze houdt van lezen, schrijven en zwemmen.", "Ze houdt van lezen, te schrijven en zwem.", "Lezen ze houdt van, schrijven en te zwemmen.", "Van lezen houdt ze en schrijven te zwemmen."], "correctAnswer": "Ze houdt van lezen, schrijven en zwemmen." },
+        { "id": "se-4-8", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Een stelling presenteert het hoofdargument van een essay", "correctAnswer": "true" },
+        { "id": "se-4-9", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Het onderzoek werd ___ uitgevoerd; de resultaten waren verrassend", "options": ["zorgvuldig", "blij", "groen", "snel"], "correctAnswer": "zorgvuldig" },
+        { "id": "se-4-10", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Wat maakt een sterke conclusie?", "options": ["Vat hoofdpunten samen en geeft inzicht", "Introduceert nieuwe onderwerpen", "Herhaalt de inleiding exact", "Stelt veel vragen"], "correctAnswer": "Vat hoofdpunten samen en geeft inzicht" }
+      ]
+    }
+  ]
+}

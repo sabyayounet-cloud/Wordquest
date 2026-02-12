@@ -1,0 +1,66 @@
+{
+  "module": "vocabulary",
+  "language": "nl",
+  "levels": [
+    {
+      "id": "vocab-1", "title": "Eerste Woorden", "description": "Leer eenvoudige alledaagse woorden", "ageGroup": "4-6", "difficulty": 1, "requiredCorrect": 7,
+      "questions": [
+        { "id": "v-1-1", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Wat is dit dier? 🐶", "options": ["Hond", "Kat", "Vogel", "Vis"], "correctAnswer": "Hond" },
+        { "id": "v-1-2", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Welke kleur heeft de lucht?", "options": ["Blauw", "Rood", "Groen", "Geel"], "correctAnswer": "Blauw" },
+        { "id": "v-1-3", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Wat is dit fruit? 🍎", "options": ["Appel", "Banaan", "Sinaasappel", "Druif"], "correctAnswer": "Appel" },
+        { "id": "v-1-4", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Een 'tafel' is iets waar je op zit", "correctAnswer": "false" },
+        { "id": "v-1-5", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Een 'schoen' gaat aan je voet", "correctAnswer": "true" },
+        { "id": "v-1-6", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Welk dier kan vliegen?", "options": ["Vogel", "Hond", "Kat", "Vis"], "correctAnswer": "Vogel" },
+        { "id": "v-1-7", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Wat drink je? 🥛", "options": ["Melk", "Brood", "Rijst", "Taart"], "correctAnswer": "Melk" },
+        { "id": "v-1-8", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Wat is dit? 🌳", "options": ["Boom", "Bloem", "Struik", "Gras"], "correctAnswer": "Boom" },
+        { "id": "v-1-9", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "De zon komt 's nachts op", "correctAnswer": "false" },
+        { "id": "v-1-10", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Wat draag je op je hoofd?", "options": ["Hoed", "Handschoenen", "Sokken", "Riem"], "correctAnswer": "Hoed" }
+      ]
+    },
+    {
+      "id": "vocab-2", "title": "In en om het Huis", "description": "Woorden over thuis en familie", "ageGroup": "7-9", "difficulty": 2, "requiredCorrect": 7,
+      "questions": [
+        { "id": "v-2-1", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Waar kook je eten?", "options": ["Keuken", "Slaapkamer", "Badkamer", "Tuin"], "correctAnswer": "Keuken" },
+        { "id": "v-2-2", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Waar slaap je 's nachts in?", "correctAnswer": "bed" },
+        { "id": "v-2-3", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Wat is een synoniem voor 'blij'?", "options": ["gelukkig", "verdrietig", "boos", "moe"], "correctAnswer": "gelukkig" },
+        { "id": "v-2-4", "type": "fill-in-blank", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Ik gebruik een ___ om te schrijven", "options": ["pen", "kopje", "hoed", "schoen"], "correctAnswer": "pen" },
+        { "id": "v-2-5", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Wat is het tegenovergestelde van 'warm'?", "options": ["Koud", "Heet", "Fris", "Nat"], "correctAnswer": "Koud" },
+        { "id": "v-2-6", "type": "true-false", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Een 'koelkast' houdt eten koud", "correctAnswer": "true" },
+        { "id": "v-2-7", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Wat is het tegenovergestelde van 'groot'?", "correctAnswer": "klein" },
+        { "id": "v-2-8", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Welk woord betekent 'een plek om dingen te kopen'?", "options": ["Winkel", "Park", "School", "Bibliotheek"], "correctAnswer": "Winkel" },
+        { "id": "v-2-9", "type": "fill-in-blank", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Ik was mijn handen met ___ en water", "options": ["zeep", "melk", "sap", "zand"], "correctAnswer": "zeep" },
+        { "id": "v-2-10", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Wat betekent 'enorm'?", "options": ["Heel groot", "Heel klein", "Heel snel", "Heel langzaam"], "correctAnswer": "Heel groot" }
+      ]
+    },
+    {
+      "id": "vocab-3", "title": "Beschrijvende Woorden", "description": "Bijvoeglijke naamwoorden en gevorderde woordenschat", "ageGroup": "10-12", "difficulty": 3, "requiredCorrect": 7,
+      "questions": [
+        { "id": "v-3-1", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Wat betekent 'moedig'?", "options": ["Dapper", "Bang", "Grappig", "Slim"], "correctAnswer": "Dapper" },
+        { "id": "v-3-2", "type": "typing", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Wat is een synoniem voor 'mooi'?", "correctAnswer": "prachtig" },
+        { "id": "v-3-3", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "De ___ wetenschapper deed een belangrijke ontdekking", "options": ["briljante", "lekkere", "luide", "paarse"], "correctAnswer": "briljante" },
+        { "id": "v-3-4", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Wat betekent 'eigenaardig'?", "options": ["Vreemd", "Normaal", "Mooi", "Snel"], "correctAnswer": "Vreemd" },
+        { "id": "v-3-5", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Welk woord betekent 'kleiner maken'?", "options": ["Verkleinen", "Vergroten", "Uitbreiden", "Vermenigvuldigen"], "correctAnswer": "Verkleinen" },
+        { "id": "v-3-6", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "'Doorzichtig' betekent dat je erdoorheen kunt kijken", "correctAnswer": "true" },
+        { "id": "v-3-7", "type": "typing", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Wat is het tegenovergestelde van 'oud'?", "correctAnswer": "nieuw" },
+        { "id": "v-3-8", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Wat betekent 'aarzelend'?", "options": ["Onzeker", "Gretig", "Blij", "Snel"], "correctAnswer": "Onzeker" },
+        { "id": "v-3-9", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "De zonsondergang was absoluut ___", "options": ["prachtig", "verschrikkelijk", "saai", "klein"], "correctAnswer": "prachtig" },
+        { "id": "v-3-10", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "'Nachtelijk' betekent actief overdag", "correctAnswer": "false" }
+      ]
+    },
+    {
+      "id": "vocab-4", "title": "Academische Woorden", "description": "Gevorderde woordenschat voor tieners", "ageGroup": "13-15", "difficulty": 4, "requiredCorrect": 7,
+      "questions": [
+        { "id": "v-4-1", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Wat betekent 'dubbelzinnig'?", "options": ["Onduidelijk", "Zeker", "Boos", "Blij"], "correctAnswer": "Onduidelijk" },
+        { "id": "v-4-2", "type": "typing", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Welk woord betekent 'makkelijker maken'?", "correctAnswer": "vergemakkelijken" },
+        { "id": "v-4-3", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Wat betekent 'pragmatisch'?", "options": ["Praktisch", "Dromerig", "Artistiek", "Lui"], "correctAnswer": "Praktisch" },
+        { "id": "v-4-4", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Het bewijs was ___ en weerlegde de theorie", "options": ["tegenstrijdig", "ondersteunend", "onzichtbaar", "lekker"], "correctAnswer": "tegenstrijdig" },
+        { "id": "v-4-5", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Wat betekent 'vluchtig'?", "options": ["Kortdurend", "Eeuwig", "Zwaar", "Helder"], "correctAnswer": "Kortdurend" },
+        { "id": "v-4-6", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "'Alomtegenwoordig' betekent overal te vinden", "correctAnswer": "true" },
+        { "id": "v-4-7", "type": "typing", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Welk woord betekent 'een sterk gevoel van afkeer'?", "correctAnswer": "afkeer" },
+        { "id": "v-4-8", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Wat betekent 'nauwgezet'?", "options": ["Heel zorgvuldig", "Heel snel", "Heel luid", "Heel lang"], "correctAnswer": "Heel zorgvuldig" },
+        { "id": "v-4-9", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Haar ___ toespraak inspireerde de hele school", "options": ["welsprekende", "gemompelde", "saaie", "stille"], "correctAnswer": "welsprekende" },
+        { "id": "v-4-10", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "'Welwillend' betekent wreed en onvriendelijk", "correctAnswer": "false" }
+      ]
+    }
+  ]
+}

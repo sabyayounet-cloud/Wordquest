@@ -39,3 +39,16 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Capacitor native platforms
+/android/
+/ios/
+
+# Capacitor build artifacts
+*.keystore
+*.jks
+*.p12
+*.mobileprovision
+
+# Middleware backup (mobile builds)
+src/middleware.ts.bak

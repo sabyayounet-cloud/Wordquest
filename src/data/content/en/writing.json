@@ -1,0 +1,66 @@
+{
+  "module": "writing",
+  "language": "en",
+  "levels": [
+    {
+      "id": "write-1", "title": "First Writing", "description": "Start writing words and sentences", "ageGroup": "4-6", "difficulty": 1, "requiredCorrect": 7,
+      "questions": [
+        { "id": "wr-1-1", "type": "typing", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Write the word for this animal: 🐱", "correctAnswer": "cat" },
+        { "id": "wr-1-2", "type": "typing", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Write the color of the sky", "correctAnswer": "blue" },
+        { "id": "wr-1-3", "type": "fill-in-blank", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "My name ___ ...", "options": ["is", "at", "on", "up"], "correctAnswer": "is" },
+        { "id": "wr-1-4", "type": "drag-and-drop", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Write a sentence:", "words": ["I", "like", "dogs"], "correctAnswer": "I like dogs" },
+        { "id": "wr-1-5", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Which starts a sentence correctly?", "options": ["The cat", "the cat", "THE CAT", "tHe CaT"], "correctAnswer": "The cat" },
+        { "id": "wr-1-6", "type": "typing", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Write the word for this fruit: 🍌", "correctAnswer": "banana" },
+        { "id": "wr-1-7", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Sentences start with a capital letter", "correctAnswer": "true" },
+        { "id": "wr-1-8", "type": "drag-and-drop", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Write a sentence:", "words": ["She", "is", "happy"], "correctAnswer": "She is happy" },
+        { "id": "wr-1-9", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "What goes at the end? 'I see a bird___'", "options": [".", "!", "?", ","], "correctAnswer": "." },
+        { "id": "wr-1-10", "type": "typing", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Write the number word: 3", "correctAnswer": "three" }
+      ]
+    },
+    {
+      "id": "write-2", "title": "Creative Sentences", "description": "Write descriptive sentences", "ageGroup": "7-9", "difficulty": 2, "requiredCorrect": 7,
+      "questions": [
+        { "id": "wr-2-1", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Write the opposite of 'happy'", "correctAnswer": "sad" },
+        { "id": "wr-2-2", "type": "fill-in-blank", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "The ___ dog ran across the park", "options": ["playful", "building", "because", "under"], "correctAnswer": "playful" },
+        { "id": "wr-2-3", "type": "drag-and-drop", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Build a descriptive sentence:", "words": ["The", "big", "brown", "bear", "sleeps"], "correctAnswer": "The big brown bear sleeps" },
+        { "id": "wr-2-4", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Which sentence has an adjective?", "options": ["The tall tree fell.", "She ran.", "Go now.", "I ate."], "correctAnswer": "The tall tree fell." },
+        { "id": "wr-2-5", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Write a word that describes how a snail moves", "correctAnswer": "slowly" },
+        { "id": "wr-2-6", "type": "fill-in-blank", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "She sang ___ at the concert", "options": ["beautifully", "chair", "purple", "Monday"], "correctAnswer": "beautifully" },
+        { "id": "wr-2-7", "type": "true-false", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "A sentence needs both a subject and a verb", "correctAnswer": "true" },
+        { "id": "wr-2-8", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "What is a 'describing word' called?", "options": ["Adjective", "Noun", "Verb", "Pronoun"], "correctAnswer": "Adjective" },
+        { "id": "wr-2-9", "type": "drag-and-drop", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Build a sentence:", "words": ["My", "friend", "loves", "ice", "cream"], "correctAnswer": "My friend loves ice cream" },
+        { "id": "wr-2-10", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Write a word that means 'very cold'", "correctAnswer": "freezing" }
+      ]
+    },
+    {
+      "id": "write-3", "title": "Paragraph Writing", "description": "Structure your writing into paragraphs", "ageGroup": "10-12", "difficulty": 3, "requiredCorrect": 7,
+      "questions": [
+        { "id": "wr-3-1", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "What should a paragraph start with?", "options": ["A topic sentence", "A conclusion", "A question", "A number"], "correctAnswer": "A topic sentence" },
+        { "id": "wr-3-2", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Good writing uses ___ words instead of repeating the same ones", "options": ["different", "same", "big", "small"], "correctAnswer": "different" },
+        { "id": "wr-3-3", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Every paragraph should focus on one main idea", "correctAnswer": "true" },
+        { "id": "wr-3-4", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Which is a better word than 'said' for an angry character?", "options": ["Shouted", "Whispered", "Mumbled", "Sang"], "correctAnswer": "Shouted" },
+        { "id": "wr-3-5", "type": "typing", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "What word means 'a comparison using like or as'?", "correctAnswer": "simile" },
+        { "id": "wr-3-6", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "In conclusion, ___ is important for good health", "options": ["exercise", "because", "although", "running"], "correctAnswer": "exercise" },
+        { "id": "wr-3-7", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "What makes writing more interesting?", "options": ["Varied sentence lengths", "Only short sentences", "No adjectives", "Repeating words"], "correctAnswer": "Varied sentence lengths" },
+        { "id": "wr-3-8", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "An essay needs an introduction, body, and conclusion", "correctAnswer": "true" },
+        { "id": "wr-3-9", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Which transition word shows contrast?", "options": ["However", "Also", "Next", "Finally"], "correctAnswer": "However" },
+        { "id": "wr-3-10", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Show, don't ___: use descriptive details", "options": ["tell", "run", "see", "write"], "correctAnswer": "tell" }
+      ]
+    },
+    {
+      "id": "write-4", "title": "Essay Writing", "description": "Master essay structure and persuasion", "ageGroup": "13-15", "difficulty": 4, "requiredCorrect": 7,
+      "questions": [
+        { "id": "wr-4-1", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "What is a thesis statement?", "options": ["The main argument of an essay", "The title", "A question", "The bibliography"], "correctAnswer": "The main argument of an essay" },
+        { "id": "wr-4-2", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "A persuasive essay uses ___ to convince the reader", "options": ["evidence", "colors", "pictures", "numbers"], "correctAnswer": "evidence" },
+        { "id": "wr-4-3", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "A counterargument acknowledges the opposing viewpoint", "correctAnswer": "true" },
+        { "id": "wr-4-4", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Which is the strongest opening for an essay?", "options": ["A surprising statistic", "In this essay I will...", "Hello reader", "Once upon a time"], "correctAnswer": "A surprising statistic" },
+        { "id": "wr-4-5", "type": "typing", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "What type of essay tells a story from personal experience?", "correctAnswer": "narrative" },
+        { "id": "wr-4-6", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "What does 'cite your sources' mean?", "options": ["Give credit to where info came from", "Write in cursive", "Use big words", "Write longer sentences"], "correctAnswer": "Give credit to where info came from" },
+        { "id": "wr-4-7", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "The ___ paragraph summarizes and restates the thesis", "options": ["conclusion", "first", "middle", "second"], "correctAnswer": "conclusion" },
+        { "id": "wr-4-8", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Plagiarism means copying someone else's work without credit", "correctAnswer": "true" },
+        { "id": "wr-4-9", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Which writing technique creates empathy?", "options": ["Using specific details and emotions", "Writing in all capitals", "Using only facts", "Making lists"], "correctAnswer": "Using specific details and emotions" },
+        { "id": "wr-4-10", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "What is the purpose of revision?", "options": ["To improve and refine writing", "To make it longer", "To add pictures", "To change the topic"], "correctAnswer": "To improve and refine writing" }
+      ]
+    }
+  ]
+}

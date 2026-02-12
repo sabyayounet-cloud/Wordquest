@@ -1,0 +1,66 @@
+{
+  "module": "spelling",
+  "language": "nl",
+  "levels": [
+    {
+      "id": "spell-1", "title": "Eenvoudig Spellen", "description": "Spel eenvoudige woorden", "ageGroup": "4-6", "difficulty": 1, "requiredCorrect": 7,
+      "questions": [
+        { "id": "sp-1-1", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Hoe spel je dit dier? 🐱", "options": ["KAT", "CAT", "KAD", "KATT"], "correctAnswer": "KAT" },
+        { "id": "sp-1-2", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Hoe spel je dit dier? 🐕", "options": ["HOND", "HONT", "HOHND", "HUNDT"], "correctAnswer": "HOND" },
+        { "id": "sp-1-3", "type": "typing", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Spel: 🌞 (het heldere ding aan de hemel)", "correctAnswer": "zon" },
+        { "id": "sp-1-4", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Welke spelling is juist?", "options": ["ROOD", "ROOT", "RODT", "ROHD"], "correctAnswer": "ROOD" },
+        { "id": "sp-1-5", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "'BAL' wordt B-A-L gespeld", "correctAnswer": "true" },
+        { "id": "sp-1-6", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "'BOOM' wordt B-O-M gespeld", "correctAnswer": "false" },
+        { "id": "sp-1-7", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Hoe spel je het getal 1?", "options": ["EEN", "ÉÉN", "IEN", "EIN"], "correctAnswer": "EEN" },
+        { "id": "sp-1-8", "type": "typing", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Spel: een rond speelgoed ⚽", "correctAnswer": "bal" },
+        { "id": "sp-1-9", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Welke spelling is juist?", "options": ["HUIS", "HUYS", "HOIS", "HUAS"], "correctAnswer": "HUIS" },
+        { "id": "sp-1-10", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Hoe spel je de kleur van gras?", "options": ["GROEN", "GRÖN", "GRUIN", "GROAN"], "correctAnswer": "GROEN" }
+      ]
+    },
+    {
+      "id": "spell-2", "title": "Lastige Klanken", "description": "Woorden met lastige lettercombinaties", "ageGroup": "7-9", "difficulty": 2, "requiredCorrect": 7,
+      "questions": [
+        { "id": "sp-2-1", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Spel: het tegenovergestelde van nacht", "correctAnswer": "dag" },
+        { "id": "sp-2-2", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Wat is juist gespeld?", "options": ["VRIEND", "VRIENT", "FREIND", "VRIND"], "correctAnswer": "VRIEND" },
+        { "id": "sp-2-3", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Wat is juist gespeld?", "options": ["VLINDER", "FLINDER", "VLINTER", "VLIENDER"], "correctAnswer": "VLINDER" },
+        { "id": "sp-2-4", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Spel: waar je naartoe gaat om te leren (een gebouw)", "correctAnswer": "school" },
+        { "id": "sp-2-5", "type": "fill-in-blank", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Ik heb ___ broers en een zus", "options": ["twee", "twe", "twéé", "tvee"], "correctAnswer": "twee" },
+        { "id": "sp-2-6", "type": "true-false", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "'FIETS' wordt F-I-E-T-S gespeld", "correctAnswer": "true" },
+        { "id": "sp-2-7", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Wat is juist gespeld?", "options": ["VERJAARDAG", "VERJAARDAGH", "FERJAARDAG", "VERJAARTAK"], "correctAnswer": "VERJAARDAG" },
+        { "id": "sp-2-8", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Spel: de kleur van sneeuw", "correctAnswer": "wit" },
+        { "id": "sp-2-9", "type": "fill-in-blank", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "We ___ naar het park gegaan", "options": ["zijn", "sijn", "zein", "zijn't"], "correctAnswer": "zijn" },
+        { "id": "sp-2-10", "type": "true-false", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "'MENSEN' wordt M-E-N-S-E-N gespeld", "correctAnswer": "true" }
+      ]
+    },
+    {
+      "id": "spell-3", "title": "Dubbele Letters en Tweeklanken", "description": "Beheers lastige spellingpatronen", "ageGroup": "10-12", "difficulty": 3, "requiredCorrect": 7,
+      "questions": [
+        { "id": "sp-3-1", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Welk woord heeft dubbel-'e'?", "options": ["BEEN", "BEN", "BEIN", "BEAN"], "correctAnswer": "BEEN" },
+        { "id": "sp-3-2", "type": "typing", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Spel: een stuk land omringd door water", "correctAnswer": "eiland" },
+        { "id": "sp-3-3", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Wat is juist gespeld?", "options": ["NOODZAKELIJK", "NOOTZAKELIJK", "NOODZAKELIK", "NOODSAAKELIJK"], "correctAnswer": "NOODZAKELIJK" },
+        { "id": "sp-3-4", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Het ___ was heel spannend om te zien", "options": ["toernooi", "turnooi", "toernoi", "toernooy"], "correctAnswer": "toernooi" },
+        { "id": "sp-3-5", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "'WOENSDAG' heeft een stomme 'e'", "correctAnswer": "false" },
+        { "id": "sp-3-6", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Wat is juist gespeld?", "options": ["VERRASSING", "VERASSING", "VERASING", "VERRASING"], "correctAnswer": "VERRASSING" },
+        { "id": "sp-3-7", "type": "typing", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Spel: het tegenovergestelde van 'oorlog'", "correctAnswer": "vrede" },
+        { "id": "sp-3-8", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Welk woord heeft dubbel-'l'?", "options": ["BALLON", "BALON", "BALOON", "BALLOON"], "correctAnswer": "BALLON" },
+        { "id": "sp-3-9", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "'RITME' is een woord zonder de gebruikelijke klinkers", "correctAnswer": "false" },
+        { "id": "sp-3-10", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Ze toonde grote ___ tijdens de wedstrijd", "options": ["vastberadenheid", "vastberaadnheid", "vasteberadenheid", "fastberadenheid"], "correctAnswer": "vastberadenheid" }
+      ]
+    },
+    {
+      "id": "spell-4", "title": "Gevorderd Spellen", "description": "Complexe woorden en leenwoorden", "ageGroup": "13-15", "difficulty": 4, "requiredCorrect": 7,
+      "questions": [
+        { "id": "sp-4-1", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Wat is juist gespeld?", "options": ["ONDERNEMER", "ONDRENEMER", "ONDARNEMER", "ONDERNEEMER"], "correctAnswer": "ONDERNEMER" },
+        { "id": "sp-4-2", "type": "typing", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Spel: de studie van de geest", "correctAnswer": "psychologie" },
+        { "id": "sp-4-3", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Wat is juist gespeld?", "options": ["BEWUSTZIJN", "BEWUSTSIJN", "BEWUSTZEIN", "BEWUSTSZIJN"], "correctAnswer": "BEWUSTZIJN" },
+        { "id": "sp-4-4", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "De ___ van de situatie was voor iedereen duidelijk", "options": ["betekenis", "betekeniss", "betaikenis", "betékenis"], "correctAnswer": "betekenis" },
+        { "id": "sp-4-5", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "'BUREAUCRATIE' wordt B-U-R-E-A-U-C-R-A-T-I-E gespeld", "correctAnswer": "true" },
+        { "id": "sp-4-6", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Wat is juist gespeld?", "options": ["SYMPATHIE", "SIMPATIE", "SYMPATHIE", "SYMPATBIE"], "correctAnswer": "SYMPATHIE" },
+        { "id": "sp-4-7", "type": "typing", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Spel: een ander woord voor 'krijgen'", "correctAnswer": "ontvangen" },
+        { "id": "sp-4-8", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Wat is juist gespeld?", "options": ["FENOMEEN", "FENOMEIN", "FENOMEAN", "PHENOMEEN"], "correctAnswer": "FENOMEEN" },
+        { "id": "sp-4-9", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "'ONOMATOPEE' verwijst naar woorden die klinken als wat ze beschrijven", "correctAnswer": "true" },
+        { "id": "sp-4-10", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Het ___ vereiste uitgebreid onderzoek", "options": ["proefschrift", "proefscrift", "pruefschrift", "proefshrift"], "correctAnswer": "proefschrift" }
+      ]
+    }
+  ]
+}

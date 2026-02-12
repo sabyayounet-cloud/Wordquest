@@ -1,0 +1,66 @@
+{
+  "module": "reading",
+  "language": "nl",
+  "levels": [
+    {
+      "id": "read-1", "title": "Leesplezier", "description": "Lees eenvoudige woorden en zinnen", "ageGroup": "4-6", "difficulty": 1, "requiredCorrect": 7,
+      "questions": [
+        { "id": "rd-1-1", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Lees: 'De kat zit op de mat.' Waar zit de kat?", "options": ["Op de mat", "Op het bed", "Op de stoel", "Op de tafel"], "correctAnswer": "Op de mat" },
+        { "id": "rd-1-2", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Lees: 'Ik zie een grote rode bal.' Welke kleur heeft de bal?", "options": ["Rood", "Blauw", "Groen", "Geel"], "correctAnswer": "Rood" },
+        { "id": "rd-1-3", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Lees: 'De zon is heet.' De zon is koud.", "correctAnswer": "false" },
+        { "id": "rd-1-4", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Lees: 'Jan heeft een hond. De hond is bruin.' Welk huisdier heeft Jan?", "options": ["Een hond", "Een kat", "Een vis", "Een vogel"], "correctAnswer": "Een hond" },
+        { "id": "rd-1-5", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Lees: 'Vissen leven in water.' Vissen leven op het land.", "correctAnswer": "false" },
+        { "id": "rd-1-6", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Lees: 'Mama gaf mij een koekje.' Wie gaf het koekje?", "options": ["Mama", "Papa", "Vriend", "Juf"], "correctAnswer": "Mama" },
+        { "id": "rd-1-7", "type": "fill-in-blank", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Lees: 'De ___ staat aan de hemel.' (helder en geel)", "options": ["zon", "kat", "bal", "schoen"], "correctAnswer": "zon" },
+        { "id": "rd-1-8", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Lees: 'Ik eet graag appels en bananen.' Wat eet de persoon graag?", "options": ["Fruit", "Speelgoed", "Boeken", "Auto's"], "correctAnswer": "Fruit" },
+        { "id": "rd-1-9", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Lees: 'Vogels kunnen vliegen.' Vogels kunnen vliegen.", "correctAnswer": "true" },
+        { "id": "rd-1-10", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Lees: 'Het regent. Ik heb mijn paraplu nodig.' Waarom heb ik een paraplu nodig?", "options": ["Het regent", "De zon schijnt", "Het sneeuwt", "Het waait"], "correctAnswer": "Het regent" }
+      ]
+    },
+    {
+      "id": "read-2", "title": "Verhaaltijd", "description": "Korte verhalen begrijpen", "ageGroup": "7-9", "difficulty": 2, "requiredCorrect": 7,
+      "questions": [
+        { "id": "rd-2-1", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Lees: 'Tom was te laat op school. Hij rende zo snel hij kon.' Waarom rende Tom?", "options": ["Hij was te laat", "Hij was blij", "Hij zag een hond", "Hij speelde"], "correctAnswer": "Hij was te laat" },
+        { "id": "rd-2-2", "type": "fill-in-blank", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Lees: 'De ___ blies de bladeren van de bomen.'", "options": ["wind", "zon", "regen", "sneeuw"], "correctAnswer": "wind" },
+        { "id": "rd-2-3", "type": "true-false", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Lees: 'Sara houdt van schilderen. Ze schildert elke dag na school.' Sara schildert 's ochtends.", "correctAnswer": "false" },
+        { "id": "rd-2-4", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Lees: 'De jongen zag er verdrietig uit. Zijn ijsje viel op de grond.' Hoe voelt de jongen zich?", "options": ["Verdrietig", "Blij", "Boos", "Opgewonden"], "correctAnswer": "Verdrietig" },
+        { "id": "rd-2-5", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Wat is het hoofdidee van een verhaal?", "options": ["Waar het verhaal vooral over gaat", "Het eerste woord", "De laatste zin", "Alleen de titel"], "correctAnswer": "Waar het verhaal vooral over gaat" },
+        { "id": "rd-2-6", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Lees: 'De hond kwispelde en sprong op.' Is de hond blij of verdrietig?", "correctAnswer": "blij" },
+        { "id": "rd-2-7", "type": "true-false", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Lees: 'Beren slapen de hele winter.' Dit heet winterslaap.", "correctAnswer": "true" },
+        { "id": "rd-2-8", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Lees: 'Eerst meng het meel. Dan voeg de eieren toe. Tot slot bak het.' Wat voeg je toe na het meel?", "options": ["Eieren", "Suiker", "Water", "Boter"], "correctAnswer": "Eieren" },
+        { "id": "rd-2-9", "type": "fill-in-blank", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Een verhaal heeft een begin, een ___ en een einde", "options": ["midden", "boven", "zijkant", "achterkant"], "correctAnswer": "midden" },
+        { "id": "rd-2-10", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Lees: 'Lisa plantte een zaadje. Ze gaf het elke dag water. Er groeide een bloem!' Wat gebeurde als laatste?", "options": ["Er groeide een bloem", "Ze plantte een zaadje", "Ze gaf water", "Ze pakte een pot"], "correctAnswer": "Er groeide een bloem" }
+      ]
+    },
+    {
+      "id": "read-3", "title": "Begrijpend Lezen", "description": "Teksten analyseren en betekenis vinden", "ageGroup": "10-12", "difficulty": 3, "requiredCorrect": 7,
+      "questions": [
+        { "id": "rd-3-1", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Wat betekent 'tussen de regels door lezen'?", "options": ["Verborgen betekenis begrijpen", "Heel langzaam lezen", "Regels overslaan", "Achteruit lezen"], "correctAnswer": "Verborgen betekenis begrijpen" },
+        { "id": "rd-3-2", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Lees: 'Jan sloeg de deur dicht en gooide zijn tas neer.' Hoe voelt Jan zich?", "options": ["Boos", "Blij", "Moe", "Hongerig"], "correctAnswer": "Boos" },
+        { "id": "rd-3-3", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Een 'hoofdpersoon' is het belangrijkste personage van een verhaal", "correctAnswer": "true" },
+        { "id": "rd-3-4", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Het ___ is het probleem of de strijd in een verhaal", "options": ["conflict", "decor", "thema", "titel"], "correctAnswer": "conflict" },
+        { "id": "rd-3-5", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Wat is een 'metafoor'?", "options": ["Vergelijking zonder 'als' of 'zoals'", "Een soort gedicht", "Het einde van een verhaal", "Een personagelijst"], "correctAnswer": "Vergelijking zonder 'als' of 'zoals'" },
+        { "id": "rd-3-6", "type": "typing", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Wat is het decor van een verhaal? (waar en ___)", "correctAnswer": "wanneer" },
+        { "id": "rd-3-7", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "'Haar glimlach was als de zon.' Dit is een:", "options": ["Vergelijking", "Metafoor", "Alliteratie", "Overdrijving"], "correctAnswer": "Vergelijking" },
+        { "id": "rd-3-8", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Fictie betekent dat het verhaal verzonnen is", "correctAnswer": "true" },
+        { "id": "rd-3-9", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "De ___ is de les of boodschap van een verhaal", "options": ["moraal", "titel", "schrijver", "hoofdstuk"], "correctAnswer": "moraal" },
+        { "id": "rd-3-10", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Welke is verteld vanuit het eerste persoon?", "options": ["Ik liep naar school.", "Hij liep naar school.", "Zij liep naar school.", "Zij liepen naar school."], "correctAnswer": "Ik liep naar school." }
+      ]
+    },
+    {
+      "id": "read-4", "title": "Kritisch Lezen", "description": "Analyseer auteursintentie en literaire middelen", "ageGroup": "13-15", "difficulty": 4, "requiredCorrect": 7,
+      "questions": [
+        { "id": "rd-4-1", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Wat is 'ironie'?", "options": ["Als het tegenovergestelde gebeurt", "Een soort komedie", "Een verdrietig einde", "Een lang verhaal"], "correctAnswer": "Als het tegenovergestelde gebeurt" },
+        { "id": "rd-4-2", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Een ___ is een personage dat tegen de hoofdpersoon is", "options": ["antagonist", "verteller", "schrijver", "redacteur"], "correctAnswer": "antagonist" },
+        { "id": "rd-4-3", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Vooruitwijzing geeft hints over wat later zal gebeuren", "correctAnswer": "true" },
+        { "id": "rd-4-4", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Wat is 'symboliek'?", "options": ["Voorwerpen gebruiken om ideeën te vertegenwoordigen", "In codes schrijven", "Een soort rijm", "Een hoofdstuktitel"], "correctAnswer": "Voorwerpen gebruiken om ideeën te vertegenwoordigen" },
+        { "id": "rd-4-5", "type": "typing", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Welk stijlmiddel geeft niet-menselijke dingen menselijke eigenschappen?", "correctAnswer": "personificatie" },
+        { "id": "rd-4-6", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Wat is de 'toon' van een tekst?", "options": ["De houding van de schrijver", "Het volume van het lezen", "De lettergrootte", "Het aantal pagina's"], "correctAnswer": "De houding van de schrijver" },
+        { "id": "rd-4-7", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Een ___ verteller weet alles over alle personages", "options": ["alwetende", "beperkte", "ik-", "jij-"], "correctAnswer": "alwetende" },
+        { "id": "rd-4-8", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Een onbetrouwbare verteller vertelt altijd de volledige waarheid", "correctAnswer": "false" },
+        { "id": "rd-4-9", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "'Ik heb een miljoen dingen te doen' is een voorbeeld van:", "options": ["Overdrijving", "Metafoor", "Vergelijking", "Ironie"], "correctAnswer": "Overdrijving" },
+        { "id": "rd-4-10", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Wat betekent 'thema' in de literatuur?", "options": ["De onderliggende boodschap", "Het hoofdpersonage", "Het eerste hoofdstuk", "De boekomslag"], "correctAnswer": "De onderliggende boodschap" }
+      ]
+    }
+  ]
+}

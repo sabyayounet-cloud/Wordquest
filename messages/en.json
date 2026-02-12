@@ -1,0 +1,179 @@
+{
+  "common": {
+    "appName": "WordQuest",
+    "loading": "Loading...",
+    "continue": "Continue",
+    "back": "Back",
+    "next": "Next",
+    "start": "Start",
+    "retry": "Try Again",
+    "home": "Home",
+    "close": "Close",
+    "save": "Save",
+    "cancel": "Cancel",
+    "yes": "Yes",
+    "no": "No",
+    "ok": "OK"
+  },
+  "landing": {
+    "title": "WordQuest",
+    "subtitle": "Learn Words, Build Sentences, Become a Language Hero!",
+    "startButton": "Start Your Adventure!",
+    "continueButton": "Continue Quest",
+    "tagline": "The most fun way to learn languages"
+  },
+  "onboarding": {
+    "welcome": "Welcome to WordQuest!",
+    "whatName": "What's your name, adventurer?",
+    "namePlaceholder": "Enter your name...",
+    "howOld": "How old are you?",
+    "pickAvatar": "Pick your hero!",
+    "uiLanguage": "App language",
+    "learningLanguage": "I want to learn...",
+    "letsGo": "Let's Go!",
+    "ageGroups": {
+      "4-6": "4-6 years (Little Learners)",
+      "7-9": "7-9 years (Word Explorers)",
+      "10-12": "10-12 years (Sentence Builders)",
+      "13-15": "13-15 years (Language Masters)"
+    }
+  },
+  "dashboard": {
+    "hello": "Hello, {name}!",
+    "yourLevel": "Level {level}",
+    "modules": "Learning Modules",
+    "dailyChallenge": "Daily Challenge",
+    "dailyChallengeDesc": "Complete today's special challenge!",
+    "dailyCompleted": "Today's challenge completed!",
+    "streak": "Day Streak",
+    "totalXP": "Total XP",
+    "coins": "Coins",
+    "levelsCompleted": "Levels Done",
+    "startLevel": "Start",
+    "locked": "Locked",
+    "completed": "Completed",
+    "stars": "{count} stars"
+  },
+  "modules": {
+    "phonics": "Phonics",
+    "phonicsDesc": "Learn letter sounds and rhyming",
+    "vocabulary": "Vocabulary",
+    "vocabularyDesc": "Discover new words and meanings",
+    "spelling": "Spelling",
+    "spellingDesc": "Master the art of spelling",
+    "sentences": "Sentences",
+    "sentencesDesc": "Build and understand sentences",
+    "grammar": "Grammar",
+    "grammarDesc": "Learn grammar rules",
+    "reading": "Reading",
+    "readingDesc": "Read and understand stories",
+    "writing": "Writing",
+    "writingDesc": "Express yourself in writing"
+  },
+  "game": {
+    "question": "Question {current} of {total}",
+    "hearts": "Hearts",
+    "combo": "Combo x{count}",
+    "timeLeft": "Time left: {seconds}s",
+    "correct": "Correct!",
+    "wrong": "Oops! Try again!",
+    "perfectCombo": "PERFECT COMBO!",
+    "goodJob": "Good Job!",
+    "amazing": "Amazing!",
+    "selectAnswer": "Select your answer",
+    "typeAnswer": "Type your answer...",
+    "arrangeWords": "Drag words to build the sentence",
+    "checkAnswer": "Check Answer",
+    "nextQuestion": "Next Question",
+    "hint": "Hint",
+    "noHearts": "No hearts left!",
+    "noHeartsDesc": "You ran out of hearts. Try this level again!",
+    "trueFalse": {
+      "true": "True",
+      "false": "False"
+    }
+  },
+  "levelComplete": {
+    "title": "Level Complete!",
+    "perfect": "PERFECT SCORE!",
+    "great": "Great Job!",
+    "good": "Good Work!",
+    "tryHarder": "Keep Practicing!",
+    "xpEarned": "+{amount} XP",
+    "coinsEarned": "+{amount} Coins",
+    "accuracy": "{percent}% Accuracy",
+    "newBadge": "New Badge Earned!",
+    "levelUp": "LEVEL UP! You are now Level {level}!",
+    "nextLevel": "Next Level",
+    "backToModules": "Back to Modules",
+    "retryLevel": "Retry Level"
+  },
+  "achievements": {
+    "title": "Achievements",
+    "badges": "Your Badges",
+    "locked": "Keep playing to unlock!",
+    "earned": "Earned!",
+    "rarity": {
+      "common": "Common",
+      "rare": "Rare",
+      "epic": "Epic",
+      "legendary": "Legendary"
+    }
+  },
+  "profile": {
+    "title": "Profile",
+    "stats": "Your Stats",
+    "totalXP": "Total XP",
+    "level": "Level",
+    "streak": "Day Streak",
+    "coins": "Coins",
+    "levelsCompleted": "Levels Completed",
+    "perfectScores": "Perfect Scores",
+    "badges": "Badges Earned",
+    "changeAvatar": "Change Avatar",
+    "changeName": "Change Name",
+    "settings": "Settings",
+    "uiLanguage": "App Language",
+    "learningLanguage": "Learning Language",
+    "resetProgress": "Reset Progress",
+    "resetConfirm": "Are you sure? This cannot be undone!",
+    "memberSince": "Playing since {date}"
+  },
+  "shop": {
+    "title": "Shop",
+    "avatars": "Avatars",
+    "themes": "Themes",
+    "powerups": "Power-ups",
+    "buy": "Buy",
+    "owned": "Owned",
+    "notEnoughCoins": "Not enough coins!",
+    "purchased": "Purchased!",
+    "streakFreeze": "Streak Freeze",
+    "streakFreezeDesc": "Protect your streak for one day",
+    "doubleXP": "Double XP",
+    "doubleXPDesc": "Double XP for the next level",
+    "extraHearts": "Extra Hearts",
+    "extraHeartsDesc": "Start with 8 hearts instead of 5"
+  },
+  "leaderboard": {
+    "title": "Leaderboard",
+    "rank": "Rank",
+    "player": "Player",
+    "xp": "XP",
+    "level": "Level",
+    "you": "(You)",
+    "noPlayers": "No players yet!"
+  },
+  "nav": {
+    "home": "Home",
+    "achievements": "Awards",
+    "leaderboard": "Ranks",
+    "profile": "Profile",
+    "shop": "Shop"
+  },
+  "languages": {
+    "en": "English",
+    "de": "German",
+    "nl": "Dutch"
+  }
+}

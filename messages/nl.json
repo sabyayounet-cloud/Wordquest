@@ -1,0 +1,179 @@
+{
+  "common": {
+    "appName": "WordQuest",
+    "loading": "Laden...",
+    "continue": "Doorgaan",
+    "back": "Terug",
+    "next": "Volgende",
+    "start": "Start",
+    "retry": "Opnieuw proberen",
+    "home": "Home",
+    "close": "Sluiten",
+    "save": "Opslaan",
+    "cancel": "Annuleren",
+    "yes": "Ja",
+    "no": "Nee",
+    "ok": "OK"
+  },
+  "landing": {
+    "title": "WordQuest",
+    "subtitle": "Leer woorden, bouw zinnen, word een taalheld!",
+    "startButton": "Begin je avontuur!",
+    "continueButton": "Ga verder met je quest",
+    "tagline": "De leukste manier om talen te leren"
+  },
+  "onboarding": {
+    "welcome": "Welkom bij WordQuest!",
+    "whatName": "Hoe heet je, avonturier?",
+    "namePlaceholder": "Typ je naam...",
+    "howOld": "Hoe oud ben je?",
+    "pickAvatar": "Kies je held!",
+    "uiLanguage": "App-taal",
+    "learningLanguage": "Ik wil leren...",
+    "letsGo": "Laten we gaan!",
+    "ageGroups": {
+      "4-6": "4-6 jaar (Kleine Leerlingen)",
+      "7-9": "7-9 jaar (Woordontdekkers)",
+      "10-12": "10-12 jaar (Zinnenbouwers)",
+      "13-15": "13-15 jaar (Taalmeesters)"
+    }
+  },
+  "dashboard": {
+    "hello": "Hallo, {name}!",
+    "yourLevel": "Level {level}",
+    "modules": "Leermodules",
+    "dailyChallenge": "Dagelijkse Uitdaging",
+    "dailyChallengeDesc": "Maak de speciale uitdaging van vandaag af!",
+    "dailyCompleted": "Uitdaging van vandaag voltooid!",
+    "streak": "Dagenreeks",
+    "totalXP": "Totaal XP",
+    "coins": "Munten",
+    "levelsCompleted": "Levels klaar",
+    "startLevel": "Start",
+    "locked": "Vergrendeld",
+    "completed": "Voltooid",
+    "stars": "{count} sterren"
+  },
+  "modules": {
+    "phonics": "Klanken",
+    "phonicsDesc": "Leer letterklanken en rijmen",
+    "vocabulary": "Woordenschat",
+    "vocabularyDesc": "Ontdek nieuwe woorden en betekenissen",
+    "spelling": "Spelling",
+    "spellingDesc": "Beheers de kunst van spelling",
+    "sentences": "Zinnen",
+    "sentencesDesc": "Bouw en begrijp zinnen",
+    "grammar": "Grammatica",
+    "grammarDesc": "Leer grammaticaregels",
+    "reading": "Lezen",
+    "readingDesc": "Lees en begrijp verhalen",
+    "writing": "Schrijven",
+    "writingDesc": "Druk jezelf uit in schrijven"
+  },
+  "game": {
+    "question": "Vraag {current} van {total}",
+    "hearts": "Harten",
+    "combo": "Combo x{count}",
+    "timeLeft": "Tijd over: {seconds}s",
+    "correct": "Goed!",
+    "wrong": "Oeps! Probeer opnieuw!",
+    "perfectCombo": "PERFECTE COMBO!",
+    "goodJob": "Goed gedaan!",
+    "amazing": "Geweldig!",
+    "selectAnswer": "Kies je antwoord",
+    "typeAnswer": "Typ je antwoord...",
+    "arrangeWords": "Sleep woorden om de zin te maken",
+    "checkAnswer": "Controleer antwoord",
+    "nextQuestion": "Volgende vraag",
+    "hint": "Hint",
+    "noHearts": "Geen harten meer!",
+    "noHeartsDesc": "Je hebt geen harten meer. Probeer dit level opnieuw!",
+    "trueFalse": {
+      "true": "Waar",
+      "false": "Onwaar"
+    }
+  },
+  "levelComplete": {
+    "title": "Level voltooid!",
+    "perfect": "PERFECTE SCORE!",
+    "great": "Super gedaan!",
+    "good": "Goed werk!",
+    "tryHarder": "Blijf oefenen!",
+    "xpEarned": "+{amount} XP",
+    "coinsEarned": "+{amount} Munten",
+    "accuracy": "{percent}% Nauwkeurigheid",
+    "newBadge": "Nieuwe badge verdiend!",
+    "levelUp": "LEVEL UP! Je bent nu Level {level}!",
+    "nextLevel": "Volgend Level",
+    "backToModules": "Terug naar Modules",
+    "retryLevel": "Level opnieuw"
+  },
+  "achievements": {
+    "title": "Prestaties",
+    "badges": "Jouw Badges",
+    "locked": "Blijf spelen om te ontgrendelen!",
+    "earned": "Verdiend!",
+    "rarity": {
+      "common": "Gewoon",
+      "rare": "Zeldzaam",
+      "epic": "Episch",
+      "legendary": "Legendarisch"
+    }
+  },
+  "profile": {
+    "title": "Profiel",
+    "stats": "Jouw Statistieken",
+    "totalXP": "Totaal XP",
+    "level": "Level",
+    "streak": "Dagenreeks",
+    "coins": "Munten",
+    "levelsCompleted": "Levels voltooid",
+    "perfectScores": "Perfecte Scores",
+    "badges": "Verdiende Badges",
+    "changeAvatar": "Avatar wijzigen",
+    "changeName": "Naam wijzigen",
+    "settings": "Instellingen",
+    "uiLanguage": "App-taal",
+    "learningLanguage": "Leertaal",
+    "resetProgress": "Voortgang resetten",
+    "resetConfirm": "Weet je het zeker? Dit kan niet ongedaan worden!",
+    "memberSince": "Speelt sinds {date}"
+  },
+  "shop": {
+    "title": "Winkel",
+    "avatars": "Avatars",
+    "themes": "Thema's",
+    "powerups": "Power-ups",
+    "buy": "Kopen",
+    "owned": "In bezit",
+    "notEnoughCoins": "Niet genoeg munten!",
+    "purchased": "Gekocht!",
+    "streakFreeze": "Reeks-bevriezing",
+    "streakFreezeDesc": "Bescherm je reeks voor één dag",
+    "doubleXP": "Dubbele XP",
+    "doubleXPDesc": "Dubbele XP voor het volgende level",
+    "extraHearts": "Extra Harten",
+    "extraHeartsDesc": "Start met 8 in plaats van 5 harten"
+  },
+  "leaderboard": {
+    "title": "Ranglijst",
+    "rank": "Rang",
+    "player": "Speler",
+    "xp": "XP",
+    "level": "Level",
+    "you": "(Jij)",
+    "noPlayers": "Nog geen spelers!"
+  },
+  "nav": {
+    "home": "Home",
+    "achievements": "Prestaties",
+    "leaderboard": "Ranglijst",
+    "profile": "Profiel",
+    "shop": "Winkel"
+  },
+  "languages": {
+    "en": "Engels",
+    "de": "Duits",
+    "nl": "Nederlands"
+  }
+}

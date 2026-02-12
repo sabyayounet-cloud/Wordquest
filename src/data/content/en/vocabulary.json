@@ -1,0 +1,66 @@
+{
+  "module": "vocabulary",
+  "language": "en",
+  "levels": [
+    {
+      "id": "vocab-1", "title": "First Words", "description": "Learn basic everyday words", "ageGroup": "4-6", "difficulty": 1, "requiredCorrect": 7,
+      "questions": [
+        { "id": "v-1-1", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "What is this animal? 🐶", "options": ["Dog", "Cat", "Bird", "Fish"], "correctAnswer": "Dog" },
+        { "id": "v-1-2", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "What color is the sky?", "options": ["Blue", "Red", "Green", "Yellow"], "correctAnswer": "Blue" },
+        { "id": "v-1-3", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "What is this fruit? 🍎", "options": ["Apple", "Banana", "Orange", "Grape"], "correctAnswer": "Apple" },
+        { "id": "v-1-4", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "A 'table' is something you sit on", "correctAnswer": "false" },
+        { "id": "v-1-5", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "A 'shoe' goes on your foot", "correctAnswer": "true" },
+        { "id": "v-1-6", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Which one can fly?", "options": ["Bird", "Dog", "Cat", "Fish"], "correctAnswer": "Bird" },
+        { "id": "v-1-7", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "What do you drink? 🥛", "options": ["Milk", "Bread", "Rice", "Cake"], "correctAnswer": "Milk" },
+        { "id": "v-1-8", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "What is this? 🌳", "options": ["Tree", "Flower", "Bush", "Grass"], "correctAnswer": "Tree" },
+        { "id": "v-1-9", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "The sun comes out at night", "correctAnswer": "false" },
+        { "id": "v-1-10", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "What do you wear on your head?", "options": ["Hat", "Gloves", "Socks", "Belt"], "correctAnswer": "Hat" }
+      ]
+    },
+    {
+      "id": "vocab-2", "title": "Around the House", "description": "Words about home and family", "ageGroup": "7-9", "difficulty": 2, "requiredCorrect": 7,
+      "questions": [
+        { "id": "v-2-1", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Where do you cook food?", "options": ["Kitchen", "Bedroom", "Bathroom", "Garden"], "correctAnswer": "Kitchen" },
+        { "id": "v-2-2", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "What do you sleep in at night?", "correctAnswer": "bed" },
+        { "id": "v-2-3", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "What is a synonym for 'happy'?", "options": ["Glad", "Sad", "Angry", "Tired"], "correctAnswer": "Glad" },
+        { "id": "v-2-4", "type": "fill-in-blank", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "I use a ___ to write", "options": ["pen", "cup", "hat", "shoe"], "correctAnswer": "pen" },
+        { "id": "v-2-5", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "What is the opposite of 'hot'?", "options": ["Cold", "Warm", "Cool", "Wet"], "correctAnswer": "Cold" },
+        { "id": "v-2-6", "type": "true-false", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "A 'refrigerator' keeps food cold", "correctAnswer": "true" },
+        { "id": "v-2-7", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "What is the opposite of 'big'?", "correctAnswer": "small" },
+        { "id": "v-2-8", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Which word means 'a place to buy things'?", "options": ["Shop", "Park", "School", "Library"], "correctAnswer": "Shop" },
+        { "id": "v-2-9", "type": "fill-in-blank", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "I wash my hands with ___ and water", "options": ["soap", "milk", "juice", "sand"], "correctAnswer": "soap" },
+        { "id": "v-2-10", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "What does 'enormous' mean?", "options": ["Very big", "Very small", "Very fast", "Very slow"], "correctAnswer": "Very big" }
+      ]
+    },
+    {
+      "id": "vocab-3", "title": "Descriptive Words", "description": "Adjectives and advanced vocabulary", "ageGroup": "10-12", "difficulty": 3, "requiredCorrect": 7,
+      "questions": [
+        { "id": "v-3-1", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "What does 'courageous' mean?", "options": ["Brave", "Scared", "Funny", "Smart"], "correctAnswer": "Brave" },
+        { "id": "v-3-2", "type": "typing", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "What is a synonym for 'beautiful'?", "correctAnswer": "gorgeous" },
+        { "id": "v-3-3", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "The ___ scientist made an important discovery", "options": ["brilliant", "tasty", "loud", "purple"], "correctAnswer": "brilliant" },
+        { "id": "v-3-4", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "What does 'peculiar' mean?", "options": ["Strange", "Normal", "Beautiful", "Fast"], "correctAnswer": "Strange" },
+        { "id": "v-3-5", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Which word means 'to make smaller'?", "options": ["Reduce", "Increase", "Expand", "Multiply"], "correctAnswer": "Reduce" },
+        { "id": "v-3-6", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "'Transparent' means you can see through it", "correctAnswer": "true" },
+        { "id": "v-3-7", "type": "typing", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "What is the opposite of 'ancient'?", "correctAnswer": "modern" },
+        { "id": "v-3-8", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "What does 'reluctant' mean?", "options": ["Unwilling", "Eager", "Happy", "Quick"], "correctAnswer": "Unwilling" },
+        { "id": "v-3-9", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "The sunset was absolutely ___", "options": ["magnificent", "terrible", "boring", "tiny"], "correctAnswer": "magnificent" },
+        { "id": "v-3-10", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "'Nocturnal' means active during the day", "correctAnswer": "false" }
+      ]
+    },
+    {
+      "id": "vocab-4", "title": "Academic Words", "description": "Advanced vocabulary for teens", "ageGroup": "13-15", "difficulty": 4, "requiredCorrect": 7,
+      "questions": [
+        { "id": "v-4-1", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "What does 'ambiguous' mean?", "options": ["Unclear", "Certain", "Angry", "Happy"], "correctAnswer": "Unclear" },
+        { "id": "v-4-2", "type": "typing", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "What word means 'to make easier'?", "correctAnswer": "facilitate" },
+        { "id": "v-4-3", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "What does 'pragmatic' mean?", "options": ["Practical", "Dreamy", "Artistic", "Lazy"], "correctAnswer": "Practical" },
+        { "id": "v-4-4", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "The evidence was ___, proving the theory wrong", "options": ["contradictory", "supportive", "invisible", "tasty"], "correctAnswer": "contradictory" },
+        { "id": "v-4-5", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "What does 'ephemeral' mean?", "options": ["Short-lived", "Eternal", "Heavy", "Bright"], "correctAnswer": "Short-lived" },
+        { "id": "v-4-6", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "'Ubiquitous' means found everywhere", "correctAnswer": "true" },
+        { "id": "v-4-7", "type": "typing", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "What word means 'a strong feeling of dislike'?", "correctAnswer": "aversion" },
+        { "id": "v-4-8", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "What does 'meticulous' mean?", "options": ["Very careful", "Very fast", "Very loud", "Very tall"], "correctAnswer": "Very careful" },
+        { "id": "v-4-9", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Her ___ speech inspired the whole school", "options": ["eloquent", "mumbled", "boring", "quiet"], "correctAnswer": "eloquent" },
+        { "id": "v-4-10", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "'Benevolent' means cruel and unkind", "correctAnswer": "false" }
+      ]
+    }
+  ]
+}

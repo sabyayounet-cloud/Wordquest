@@ -1,0 +1,66 @@
+{
+  "module": "grammar",
+  "language": "nl",
+  "levels": [
+    {
+      "id": "gram-1", "title": "Zelfstandige en Werkwoorden", "description": "Leer over zelfstandige naamwoorden en werkwoorden", "ageGroup": "4-6", "difficulty": 1, "requiredCorrect": 7,
+      "questions": [
+        { "id": "gr-1-1", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Welk woord is een zelfstandig naamwoord (een ding)?", "options": ["Hond", "Rennen", "Snel", "Blij"], "correctAnswer": "Hond" },
+        { "id": "gr-1-2", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Welk woord is een actie (werkwoord)?", "options": ["Springen", "Bal", "Groot", "Rood"], "correctAnswer": "Springen" },
+        { "id": "gr-1-3", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "'Kat' is een zelfstandig naamwoord", "correctAnswer": "true" },
+        { "id": "gr-1-4", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "'Zingen' is een zelfstandig naamwoord", "correctAnswer": "false" },
+        { "id": "gr-1-5", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Wat is het meervoud van 'kat'?", "options": ["Katten", "Katen", "Kat", "Kattes"], "correctAnswer": "Katten" },
+        { "id": "gr-1-6", "type": "fill-in-blank", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "De vogel ___ in de lucht", "options": ["vliegt", "blauw", "boom", "groot"], "correctAnswer": "vliegt" },
+        { "id": "gr-1-7", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Welk is een kleurwoord (bijvoeglijk naamwoord)?", "options": ["Blauw", "Rennen", "Eten", "Gaan"], "correctAnswer": "Blauw" },
+        { "id": "gr-1-8", "type": "fill-in-blank", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Ik ___ een rode appel", "options": ["heb", "groot", "de", "rood"], "correctAnswer": "heb" },
+        { "id": "gr-1-9", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Welk woord is een persoon?", "options": ["Leraar", "Tafel", "Rennen", "Langzaam"], "correctAnswer": "Leraar" },
+        { "id": "gr-1-10", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "'Blij' beschrijft hoe je je voelt", "correctAnswer": "true" }
+      ]
+    },
+    {
+      "id": "gram-2", "title": "Woordsoorten", "description": "Bijvoeglijke naamwoorden, bijwoorden en voornaamwoorden", "ageGroup": "7-9", "difficulty": 2, "requiredCorrect": 7,
+      "questions": [
+        { "id": "gr-2-1", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Welk is een bijvoeglijk naamwoord?", "options": ["Mooi", "Snel", "Rennen", "Zij"], "correctAnswer": "Mooi" },
+        { "id": "gr-2-2", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Welk voornaamwoord vervangt 'de jongen'?", "options": ["Hij", "Zij", "Het", "Wij"], "correctAnswer": "Hij" },
+        { "id": "gr-2-3", "type": "fill-in-blank", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Het konijn rende ___", "options": ["snel", "blij", "groen", "tafel"], "correctAnswer": "snel" },
+        { "id": "gr-2-4", "type": "true-false", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "'Langzaam' is een bijwoord", "correctAnswer": "true" },
+        { "id": "gr-2-5", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Wat is de verleden tijd van 'gaan'?", "options": ["Ging", "Gaande", "Gaat", "Gegaan"], "correctAnswer": "Ging" },
+        { "id": "gr-2-6", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Wat is de verleden tijd van 'lopen'?", "correctAnswer": "liep" },
+        { "id": "gr-2-7", "type": "fill-in-blank", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "___ gaan naar het park", "options": ["Wij", "Ons", "Onze", "Van ons"], "correctAnswer": "Wij" },
+        { "id": "gr-2-8", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Welke zin is correct?", "options": ["Zij is groter dan ik.", "Zij is meer groter dan ik.", "Zij is grootst dan ik.", "Zij is groot dan ik."], "correctAnswer": "Zij is groter dan ik." },
+        { "id": "gr-2-9", "type": "true-false", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "'De' en 'het' zijn lidwoorden", "correctAnswer": "true" },
+        { "id": "gr-2-10", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Welk lidwoord heeft 'huis'?", "options": ["Het", "De", "Een", "Die"], "correctAnswer": "Het" }
+      ]
+    },
+    {
+      "id": "gram-3", "title": "Tijden en Overeenstemming", "description": "Beheers werkwoordstijden en overeenkomst", "ageGroup": "10-12", "difficulty": 3, "requiredCorrect": 7,
+      "questions": [
+        { "id": "gr-3-1", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Welke is voltooid tegenwoordige tijd?", "options": ["Ik heb gegeten.", "Ik eet.", "Ik at.", "Ik zal eten."], "correctAnswer": "Ik heb gegeten." },
+        { "id": "gr-3-2", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Zij ___ een uur gewacht", "options": ["heeft", "hebben", "is", "zijn"], "correctAnswer": "heeft" },
+        { "id": "gr-3-3", "type": "typing", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Welke tijd: 'Ik zal rennen'?", "correctAnswer": "toekomst" },
+        { "id": "gr-3-4", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Welke zin heeft juiste onderwerp-werkwoord overeenkomst?", "options": ["De honden blaffen luid.", "De honden blaft luid.", "De hond blaffen luid.", "De honden is blaffend."], "correctAnswer": "De honden blaffen luid." },
+        { "id": "gr-3-5", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Nederlands heeft geen naamvallen meer in het dagelijks gebruik", "correctAnswer": "true" },
+        { "id": "gr-3-6", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Als ik jou ___, zou ik harder studeren", "options": ["was", "ben", "wordt", "is"], "correctAnswer": "was" },
+        { "id": "gr-3-7", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Wat is een voorzetsel?", "options": ["Een woord dat positie toont", "Een naamwoord", "Een werkwoord", "Een bijvoeglijk naamwoord"], "correctAnswer": "Een woord dat positie toont" },
+        { "id": "gr-3-8", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Het boek ligt ___ de tafel", "options": ["op", "eten", "blij", "rennen"], "correctAnswer": "op" },
+        { "id": "gr-3-9", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Een voegwoord verbindt woorden of zinnen", "correctAnswer": "true" },
+        { "id": "gr-3-10", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Welk werkwoord is onregelmatig?", "options": ["Zijn (was/waren)", "Fietsen (fietste)", "Werken (werkte)", "Spelen (speelde)"], "correctAnswer": "Zijn (was/waren)" }
+      ]
+    },
+    {
+      "id": "gram-4", "title": "Gevorderde Grammatica", "description": "Complexe grammaticaregels", "ageGroup": "13-15", "difficulty": 4, "requiredCorrect": 7,
+      "questions": [
+        { "id": "gr-4-1", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Welke zin gebruikt de voorwaardelijke wijs?", "options": ["Als ik rijk was, zou ik reizen.", "Als ik rijk ben, reis ik.", "Ik ben rijk en ik reis.", "Ik was rijk en ik reisde."], "correctAnswer": "Als ik rijk was, zou ik reizen." },
+        { "id": "gr-4-2", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Het comité ___ verdeeld over de kwestie", "options": ["was", "waren", "is geweest", "zijn geworden"], "correctAnswer": "was" },
+        { "id": "gr-4-3", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "De puntkomma scheidt twee gerelateerde hoofdzinnen", "correctAnswer": "true" },
+        { "id": "gr-4-4", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Wat is een bijzin?", "options": ["Een zin die niet alleen kan staan", "Een hoofdzin", "Een vraagzin", "Een uitroepzin"], "correctAnswer": "Een zin die niet alleen kan staan" },
+        { "id": "gr-4-5", "type": "typing", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Hoe noem je een zin die extra informatie geeft over een zelfstandig naamwoord? (b___zin)", "correctAnswer": "bijzin" },
+        { "id": "gr-4-6", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Welk betrekkelijk voornaamwoord is juist? 'De leraar, ___ mij hielp, was aardig.'", "options": ["die", "dat", "wie", "welke"], "correctAnswer": "die" },
+        { "id": "gr-4-7", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "De gegevens ___ over vijf jaar verzameld", "options": ["werden", "werd", "is", "heeft"], "correctAnswer": "werden" },
+        { "id": "gr-4-8", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "In het Nederlands staat het werkwoord in een bijzin aan het einde", "correctAnswer": "true" },
+        { "id": "gr-4-9", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Wat is een hoofdzin?", "options": ["Een zin die zelfstandig kan staan.", "Een zin die begint met 'omdat'.", "Een zin die begint met 'hoewel'.", "Een zin met 'als'."], "correctAnswer": "Een zin die zelfstandig kan staan." },
+        { "id": "gr-4-10", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Noch de leerlingen, noch de leraar ___ op de hoogte van de verandering", "options": ["was", "waren", "zijn", "geweest"], "correctAnswer": "was" }
+      ]
+    }
+  ]
+}

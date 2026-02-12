@@ -1,0 +1,66 @@
+{
+  "module": "writing",
+  "language": "nl",
+  "levels": [
+    {
+      "id": "write-1", "title": "Eerste Schrijven", "description": "Begin met het schrijven van woorden en zinnen", "ageGroup": "4-6", "difficulty": 1, "requiredCorrect": 7,
+      "questions": [
+        { "id": "wr-1-1", "type": "typing", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Schrijf het woord voor dit dier: 🐱", "correctAnswer": "kat" },
+        { "id": "wr-1-2", "type": "typing", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Schrijf de kleur van de lucht", "correctAnswer": "blauw" },
+        { "id": "wr-1-3", "type": "fill-in-blank", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Mijn naam ___ ...", "options": ["is", "aan", "op", "in"], "correctAnswer": "is" },
+        { "id": "wr-1-4", "type": "drag-and-drop", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Schrijf een zin:", "words": ["Ik", "hou", "van", "honden"], "correctAnswer": "Ik hou van honden" },
+        { "id": "wr-1-5", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Wat begint een zin goed?", "options": ["De kat", "de kat", "DE KAT", "dE kAt"], "correctAnswer": "De kat" },
+        { "id": "wr-1-6", "type": "typing", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Schrijf het woord voor dit fruit: 🍌", "correctAnswer": "banaan" },
+        { "id": "wr-1-7", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Zinnen beginnen met een hoofdletter", "correctAnswer": "true" },
+        { "id": "wr-1-8", "type": "drag-and-drop", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Schrijf een zin:", "words": ["Zij", "is", "blij"], "correctAnswer": "Zij is blij" },
+        { "id": "wr-1-9", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Wat staat aan het einde? 'Ik zie een vogel___'", "options": [".", "!", "?", ","], "correctAnswer": "." },
+        { "id": "wr-1-10", "type": "typing", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Schrijf het getalwoord: 3", "correctAnswer": "drie" }
+      ]
+    },
+    {
+      "id": "write-2", "title": "Creatieve Zinnen", "description": "Schrijf beschrijvende zinnen", "ageGroup": "7-9", "difficulty": 2, "requiredCorrect": 7,
+      "questions": [
+        { "id": "wr-2-1", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Schrijf het tegenovergestelde van 'blij'", "correctAnswer": "verdrietig" },
+        { "id": "wr-2-2", "type": "fill-in-blank", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "De ___ hond rende door het park", "options": ["speelse", "gebouw", "omdat", "onder"], "correctAnswer": "speelse" },
+        { "id": "wr-2-3", "type": "drag-and-drop", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Bouw een beschrijvende zin:", "words": ["De", "grote", "bruine", "beer", "slaapt"], "correctAnswer": "De grote bruine beer slaapt" },
+        { "id": "wr-2-4", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Welke zin heeft een bijvoeglijk naamwoord?", "options": ["De hoge boom viel.", "Zij rende.", "Ga nu.", "Ik at."], "correctAnswer": "De hoge boom viel." },
+        { "id": "wr-2-5", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Schrijf een woord dat beschrijft hoe een slak beweegt", "correctAnswer": "langzaam" },
+        { "id": "wr-2-6", "type": "fill-in-blank", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Zij zong ___ op het concert", "options": ["prachtig", "stoel", "paars", "maandag"], "correctAnswer": "prachtig" },
+        { "id": "wr-2-7", "type": "true-false", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Een zin heeft een onderwerp en een werkwoord nodig", "correctAnswer": "true" },
+        { "id": "wr-2-8", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Hoe heet een 'beschrijvend woord'?", "options": ["Bijvoeglijk naamwoord", "Zelfstandig naamwoord", "Werkwoord", "Voornaamwoord"], "correctAnswer": "Bijvoeglijk naamwoord" },
+        { "id": "wr-2-9", "type": "drag-and-drop", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Bouw een zin:", "words": ["Mijn", "vriend", "houdt", "van", "ijs"], "correctAnswer": "Mijn vriend houdt van ijs" },
+        { "id": "wr-2-10", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Schrijf een woord dat 'heel koud' betekent", "correctAnswer": "ijskoud" }
+      ]
+    },
+    {
+      "id": "write-3", "title": "Alinea's Schrijven", "description": "Structureer je tekst in alinea's", "ageGroup": "10-12", "difficulty": 3, "requiredCorrect": 7,
+      "questions": [
+        { "id": "wr-3-1", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Waarmee moet een alinea beginnen?", "options": ["Een topiczin", "Een conclusie", "Een vraag", "Een nummer"], "correctAnswer": "Een topiczin" },
+        { "id": "wr-3-2", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Goed schrijven gebruikt ___ woorden in plaats van steeds dezelfde", "options": ["verschillende", "dezelfde", "grote", "kleine"], "correctAnswer": "verschillende" },
+        { "id": "wr-3-3", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Elke alinea moet zich richten op één hoofdidee", "correctAnswer": "true" },
+        { "id": "wr-3-4", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Welk is een beter woord dan 'zei' voor een boos personage?", "options": ["Schreeuwde", "Fluisterde", "Mompelde", "Zong"], "correctAnswer": "Schreeuwde" },
+        { "id": "wr-3-5", "type": "typing", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Welk woord betekent 'een vergelijking met als of zoals'?", "correctAnswer": "vergelijking" },
+        { "id": "wr-3-6", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Samenvattend is ___ belangrijk voor de gezondheid", "options": ["beweging", "omdat", "hoewel", "rennen"], "correctAnswer": "beweging" },
+        { "id": "wr-3-7", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Wat maakt schrijven interessanter?", "options": ["Gevarieerde zinslengte", "Alleen korte zinnen", "Geen bijvoeglijke naamwoorden", "Woorden herhalen"], "correctAnswer": "Gevarieerde zinslengte" },
+        { "id": "wr-3-8", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Een opstel heeft een inleiding, kern en conclusie nodig", "correctAnswer": "true" },
+        { "id": "wr-3-9", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Welk overgangswoord toont contrast?", "options": ["Echter", "Ook", "Vervolgens", "Ten slotte"], "correctAnswer": "Echter" },
+        { "id": "wr-3-10", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Laten zien, niet ___: gebruik beschrijvende details", "options": ["vertellen", "rennen", "zien", "schrijven"], "correctAnswer": "vertellen" }
+      ]
+    },
+    {
+      "id": "write-4", "title": "Opstellen Schrijven", "description": "Beheers opstelstructuur en overtuiging", "ageGroup": "13-15", "difficulty": 4, "requiredCorrect": 7,
+      "questions": [
+        { "id": "wr-4-1", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Wat is een stelling?", "options": ["Het hoofdargument van een opstel", "De titel", "Een vraag", "De bronnenlijst"], "correctAnswer": "Het hoofdargument van een opstel" },
+        { "id": "wr-4-2", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Een overtuigend opstel gebruikt ___ om de lezer te overtuigen", "options": ["bewijs", "kleuren", "plaatjes", "nummers"], "correctAnswer": "bewijs" },
+        { "id": "wr-4-3", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Een tegenargument erkent het tegenovergestelde standpunt", "correctAnswer": "true" },
+        { "id": "wr-4-4", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Wat is de sterkste opening voor een opstel?", "options": ["Een verrassend feit", "In dit opstel zal ik...", "Hallo lezer", "Er was eens"], "correctAnswer": "Een verrassend feit" },
+        { "id": "wr-4-5", "type": "typing", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Welk type opstel vertelt een persoonlijk verhaal?", "correctAnswer": "verhaal" },
+        { "id": "wr-4-6", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Wat betekent 'bronvermelding'?", "options": ["Aangeven waar informatie vandaan komt", "In schoonschrift schrijven", "Grote woorden gebruiken", "Langere zinnen schrijven"], "correctAnswer": "Aangeven waar informatie vandaan komt" },
+        { "id": "wr-4-7", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "De ___ vat samen en herhaalt de stelling", "options": ["conclusie", "eerste", "middelste", "tweede"], "correctAnswer": "conclusie" },
+        { "id": "wr-4-8", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Plagiaat betekent het werk van iemand anders kopiëren zonder bronvermelding", "correctAnswer": "true" },
+        { "id": "wr-4-9", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Welke schrijftechniek wekt empathie?", "options": ["Specifieke details en emoties gebruiken", "In hoofdletters schrijven", "Alleen feiten gebruiken", "Lijsten maken"], "correctAnswer": "Specifieke details en emoties gebruiken" },
+        { "id": "wr-4-10", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Wat is het doel van revisie?", "options": ["Schrijven verbeteren en verfijnen", "Het langer maken", "Plaatjes toevoegen", "Het onderwerp veranderen"], "correctAnswer": "Schrijven verbeteren en verfijnen" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "module": "spelling",
+  "language": "de",
+  "levels": [
+    {
+      "id": "spell-1", "title": "Einfache Rechtschreibung", "description": "Buchstabiere einfache Wörter", "ageGroup": "4-6", "difficulty": 1, "requiredCorrect": 7,
+      "questions": [
+        { "id": "sp-1-1", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Wie schreibt man dieses Tier? 🐱", "options": ["KATZE", "KAZZE", "KADZE", "KATSE"], "correctAnswer": "KATZE" },
+        { "id": "sp-1-2", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Wie schreibt man dieses Tier? 🐕", "options": ["HUND", "HUNT", "HHUND", "HUNDT"], "correctAnswer": "HUND" },
+        { "id": "sp-1-3", "type": "typing", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Buchstabiere: 🌞 (das helle Ding am Himmel)", "correctAnswer": "Sonne" },
+        { "id": "sp-1-4", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Welche Schreibweise ist richtig?", "options": ["ROT", "ROHT", "ROTT", "ROHD"], "correctAnswer": "ROT" },
+        { "id": "sp-1-5", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "'BALL' wird B-A-L-L geschrieben", "correctAnswer": "true" },
+        { "id": "sp-1-6", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "'BAUM' wird B-A-U-N geschrieben", "correctAnswer": "false" },
+        { "id": "sp-1-7", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Wie schreibt man die Zahl 1?", "options": ["EINS", "AINS", "EENS", "EINZ"], "correctAnswer": "EINS" },
+        { "id": "sp-1-8", "type": "typing", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Buchstabiere: ein rundes Spielzeug ⚽", "correctAnswer": "Ball" },
+        { "id": "sp-1-9", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Welche Schreibweise ist richtig?", "options": ["HAUS", "HAUSS", "HOUS", "HAWSS"], "correctAnswer": "HAUS" },
+        { "id": "sp-1-10", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Wie schreibt man die Farbe von Gras?", "options": ["GRÜN", "GRÜHN", "GRÜEN", "GRÜNN"], "correctAnswer": "GRÜN" }
+      ]
+    },
+    {
+      "id": "spell-2", "title": "Knifflige Laute", "description": "Wörter mit schwierigen Buchstabenkombinationen", "ageGroup": "7-9", "difficulty": 2, "requiredCorrect": 7,
+      "questions": [
+        { "id": "sp-2-1", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Buchstabiere: das Gegenteil von Nacht", "correctAnswer": "Tag" },
+        { "id": "sp-2-2", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Was ist richtig geschrieben?", "options": ["FREUND", "FREUNT", "FROINT", "FREIND"], "correctAnswer": "FREUND" },
+        { "id": "sp-2-3", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Was ist richtig geschrieben?", "options": ["SCHMETTERLING", "SCHMEATERLING", "SCHMETALING", "SCHMETERLING"], "correctAnswer": "SCHMETTERLING" },
+        { "id": "sp-2-4", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Buchstabiere: wo du lernst (ein Gebäude)", "correctAnswer": "Schule" },
+        { "id": "sp-2-5", "type": "fill-in-blank", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Ich habe ___ Brüder und eine Schwester", "options": ["zwei", "zvei", "zwie", "zwai"], "correctAnswer": "zwei" },
+        { "id": "sp-2-6", "type": "true-false", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "'FAHRRAD' wird F-A-H-R-R-A-D geschrieben", "correctAnswer": "true" },
+        { "id": "sp-2-7", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Was ist richtig geschrieben?", "options": ["GEBURTSTAG", "GEBURDSTAG", "GEBUHRSTAG", "GEBURSTAG"], "correctAnswer": "GEBURTSTAG" },
+        { "id": "sp-2-8", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Buchstabiere: die Farbe von Schnee", "correctAnswer": "weiß" },
+        { "id": "sp-2-9", "type": "fill-in-blank", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Wir ___ in den Park gegangen", "options": ["sind", "sint", "sindt", "zindt"], "correctAnswer": "sind" },
+        { "id": "sp-2-10", "type": "true-false", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "'FAMILIE' wird F-A-M-I-L-I-E geschrieben", "correctAnswer": "true" }
+      ]
+    },
+    {
+      "id": "spell-3", "title": "Doppelbuchstaben und Umlaute", "description": "Meistere schwierige Rechtschreibmuster", "ageGroup": "10-12", "difficulty": 3, "requiredCorrect": 7,
+      "questions": [
+        { "id": "sp-3-1", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Welches Wort hat Doppel-'s'?", "options": ["WASSER", "HASE", "ROSE", "NASE"], "correctAnswer": "WASSER" },
+        { "id": "sp-3-2", "type": "typing", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Buchstabiere: ein Stück Land umgeben von Wasser", "correctAnswer": "Insel" },
+        { "id": "sp-3-3", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Was ist richtig geschrieben?", "options": ["NOTWENDIG", "NOTWÄNDIG", "NOTWENDICK", "NOHTWENDIG"], "correctAnswer": "NOTWENDIG" },
+        { "id": "sp-3-4", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Das ___ war sehr spannend anzusehen", "options": ["Turnier", "Turnier", "Tornier", "Turniehr"], "correctAnswer": "Turnier" },
+        { "id": "sp-3-5", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "'RHYTHMUS' hat kein normales Vokal-Muster", "correctAnswer": "true" },
+        { "id": "sp-3-6", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Was ist richtig geschrieben?", "options": ["ÜBERRASCHUNG", "ÜBERASCHUNG", "ÜBERRASCHUNK", "ÜEBERRASCHUNG"], "correctAnswer": "ÜBERRASCHUNG" },
+        { "id": "sp-3-7", "type": "typing", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Buchstabiere: das Gegenteil von 'Krieg'", "correctAnswer": "Frieden" },
+        { "id": "sp-3-8", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Welches Wort hat Doppel-'l'?", "options": ["BRILLE", "BILE", "BRILE", "BIRLE"], "correctAnswer": "BRILLE" },
+        { "id": "sp-3-9", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "'STRASSE' ist die alte Schreibweise von 'STRAßE'", "correctAnswer": "true" },
+        { "id": "sp-3-10", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Sie zeigte große ___ beim Wettbewerb", "options": ["Entschlossenheit", "Entschlosenheit", "Entschlosenhait", "Entslossenheit"], "correctAnswer": "Entschlossenheit" }
+      ]
+    },
+    {
+      "id": "spell-4", "title": "Fortgeschrittene Rechtschreibung", "description": "Komplexe Wörter und Fremdwörter", "ageGroup": "13-15", "difficulty": 4, "requiredCorrect": 7,
+      "questions": [
+        { "id": "sp-4-1", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Was ist richtig geschrieben?", "options": ["BIBLIOTHEK", "BIBLIOTEK", "BIBLOTHEK", "BIBLYOTHEK"], "correctAnswer": "BIBLIOTHEK" },
+        { "id": "sp-4-2", "type": "typing", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Buchstabiere: das Studium des Geistes", "correctAnswer": "Psychologie" },
+        { "id": "sp-4-3", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Was ist richtig geschrieben?", "options": ["PHILOSOPHIE", "FILOSOFIE", "PHILOSPHIE", "PHILOSOPHI"], "correctAnswer": "PHILOSOPHIE" },
+        { "id": "sp-4-4", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Die ___ der Situation war allen klar", "options": ["Bedeutung", "Bedoitung", "Bedeutunk", "Bedäutung"], "correctAnswer": "Bedeutung" },
+        { "id": "sp-4-5", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "'BÜROKRATIE' wird B-Ü-R-O-K-R-A-T-I-E geschrieben", "correctAnswer": "true" },
+        { "id": "sp-4-6", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Was ist richtig geschrieben?", "options": ["SYMPATHIE", "SYMPATBIE", "SYMPATIE", "SIMPATHIE"], "correctAnswer": "SYMPATHIE" },
+        { "id": "sp-4-7", "type": "typing", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Buchstabiere: ein anderes Wort für 'bekommen'", "correctAnswer": "erhalten" },
+        { "id": "sp-4-8", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Was ist richtig geschrieben?", "options": ["PHÄNOMEN", "FENOMEN", "PHÄNOMÄN", "PHENOMEN"], "correctAnswer": "PHÄNOMEN" },
+        { "id": "sp-4-9", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "'ONOMATOPOESIE' bezieht sich auf Wörter, die klingen wie das, was sie beschreiben", "correctAnswer": "true" },
+        { "id": "sp-4-10", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Die ___ erforderte umfangreiche Recherche", "options": ["Dissertation", "Disertation", "Dissertazion", "Disertasion"], "correctAnswer": "Dissertation" }
+      ]
+    }
+  ]
+}

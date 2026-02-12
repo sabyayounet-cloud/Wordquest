@@ -1,0 +1,66 @@
+{
+  "module": "reading",
+  "language": "de",
+  "levels": [
+    {
+      "id": "read-1", "title": "Lesespaß", "description": "Lies einfache Wörter und Sätze", "ageGroup": "4-6", "difficulty": 1, "requiredCorrect": 7,
+      "questions": [
+        { "id": "rd-1-1", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Lies: 'Die Katze sitzt auf der Matte.' Wo sitzt die Katze?", "options": ["Auf der Matte", "Auf dem Bett", "Auf dem Stuhl", "Auf dem Tisch"], "correctAnswer": "Auf der Matte" },
+        { "id": "rd-1-2", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Lies: 'Ich sehe einen großen roten Ball.' Welche Farbe hat der Ball?", "options": ["Rot", "Blau", "Grün", "Gelb"], "correctAnswer": "Rot" },
+        { "id": "rd-1-3", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Lies: 'Die Sonne ist heiß.' Die Sonne ist kalt.", "correctAnswer": "false" },
+        { "id": "rd-1-4", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Lies: 'Max hat einen Hund. Der Hund ist braun.' Welches Tier hat Max?", "options": ["Einen Hund", "Eine Katze", "Einen Fisch", "Einen Vogel"], "correctAnswer": "Einen Hund" },
+        { "id": "rd-1-5", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Lies: 'Fische leben im Wasser.' Fische leben an Land.", "correctAnswer": "false" },
+        { "id": "rd-1-6", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Lies: 'Mama gab mir einen Keks.' Wer gab den Keks?", "options": ["Mama", "Papa", "Freund", "Lehrer"], "correctAnswer": "Mama" },
+        { "id": "rd-1-7", "type": "fill-in-blank", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Lies: 'Die ___ scheint am Himmel.' (hell und gelb)", "options": ["Sonne", "Katze", "Ball", "Schuh"], "correctAnswer": "Sonne" },
+        { "id": "rd-1-8", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Lies: 'Ich esse gern Äpfel und Bananen.' Was isst die Person gern?", "options": ["Obst", "Spielzeug", "Bücher", "Autos"], "correctAnswer": "Obst" },
+        { "id": "rd-1-9", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Lies: 'Vögel können fliegen.' Vögel können fliegen.", "correctAnswer": "true" },
+        { "id": "rd-1-10", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Lies: 'Es regnet. Ich brauche meinen Regenschirm.' Warum brauche ich den Schirm?", "options": ["Es regnet", "Die Sonne scheint", "Es schneit", "Es ist windig"], "correctAnswer": "Es regnet" }
+      ]
+    },
+    {
+      "id": "read-2", "title": "Geschichtenzeit", "description": "Kurze Geschichten verstehen", "ageGroup": "7-9", "difficulty": 2, "requiredCorrect": 7,
+      "questions": [
+        { "id": "rd-2-1", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Lies: 'Tom kam zu spät zur Schule. Er rannte so schnell er konnte.' Warum rannte Tom?", "options": ["Er war zu spät", "Er war froh", "Er sah einen Hund", "Er spielte"], "correctAnswer": "Er war zu spät" },
+        { "id": "rd-2-2", "type": "fill-in-blank", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Lies: 'Der ___ blies die Blätter von den Bäumen.'", "options": ["Wind", "Sonne", "Regen", "Schnee"], "correctAnswer": "Wind" },
+        { "id": "rd-2-3", "type": "true-false", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Lies: 'Sara liebt Malen. Sie malt jeden Tag nach der Schule.' Sara malt morgens.", "correctAnswer": "false" },
+        { "id": "rd-2-4", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Lies: 'Der Junge sah traurig aus. Sein Eis fiel auf den Boden.' Wie fühlt sich der Junge?", "options": ["Traurig", "Froh", "Wütend", "Aufgeregt"], "correctAnswer": "Traurig" },
+        { "id": "rd-2-5", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Was ist die Hauptidee einer Geschichte?", "options": ["Worum es hauptsächlich geht", "Das erste Wort", "Der letzte Satz", "Nur der Titel"], "correctAnswer": "Worum es hauptsächlich geht" },
+        { "id": "rd-2-6", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Lies: 'Der Hund wedelte mit dem Schwanz und sprang hoch.' Ist der Hund froh oder traurig?", "correctAnswer": "froh" },
+        { "id": "rd-2-7", "type": "true-false", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Lies: 'Bären schlafen den ganzen Winter.' Das nennt man Winterschlaf.", "correctAnswer": "true" },
+        { "id": "rd-2-8", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Lies: 'Zuerst mische das Mehl. Dann füge die Eier hinzu. Zum Schluss backe es.' Was kommt nach dem Mehl?", "options": ["Eier", "Zucker", "Wasser", "Butter"], "correctAnswer": "Eier" },
+        { "id": "rd-2-9", "type": "fill-in-blank", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Eine Geschichte hat einen Anfang, eine ___ und ein Ende", "options": ["Mitte", "Seite", "Oben", "Hinten"], "correctAnswer": "Mitte" },
+        { "id": "rd-2-10", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Lies: 'Lisa pflanzte einen Samen. Sie goss ihn jeden Tag. Eine Blume wuchs!' Was passierte zuletzt?", "options": ["Eine Blume wuchs", "Sie pflanzte einen Samen", "Sie goss ihn", "Sie holte einen Topf"], "correctAnswer": "Eine Blume wuchs" }
+      ]
+    },
+    {
+      "id": "read-3", "title": "Leseverständnis", "description": "Texte analysieren und Bedeutung finden", "ageGroup": "10-12", "difficulty": 3, "requiredCorrect": 7,
+      "questions": [
+        { "id": "rd-3-1", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Was bedeutet 'zwischen den Zeilen lesen'?", "options": ["Versteckte Bedeutung verstehen", "Sehr langsam lesen", "Zeilen überspringen", "Rückwärts lesen"], "correctAnswer": "Versteckte Bedeutung verstehen" },
+        { "id": "rd-3-2", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Lies: 'Jan knallte die Tür zu und warf seine Tasche.' Wie fühlt sich Jan?", "options": ["Wütend", "Fröhlich", "Müde", "Hungrig"], "correctAnswer": "Wütend" },
+        { "id": "rd-3-3", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Ein 'Protagonist' ist die Hauptfigur einer Geschichte", "correctAnswer": "true" },
+        { "id": "rd-3-4", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Der ___ ist das Problem oder der Kampf in einer Geschichte", "options": ["Konflikt", "Schauplatz", "Thema", "Titel"], "correctAnswer": "Konflikt" },
+        { "id": "rd-3-5", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Was ist eine 'Metapher'?", "options": ["Vergleich ohne 'wie'", "Eine Gedichtart", "Das Ende einer Geschichte", "Eine Figurenliste"], "correctAnswer": "Vergleich ohne 'wie'" },
+        { "id": "rd-3-6", "type": "typing", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Was ist der Schauplatz einer Geschichte? (wo und ___)", "correctAnswer": "wann" },
+        { "id": "rd-3-7", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "'Ihr Lächeln war wie die Sonne.' Das ist ein:", "options": ["Vergleich", "Metapher", "Alliteration", "Übertreibung"], "correctAnswer": "Vergleich" },
+        { "id": "rd-3-8", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Fiktion bedeutet, die Geschichte ist erfunden", "correctAnswer": "true" },
+        { "id": "rd-3-9", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Die ___ ist die Lehre oder Botschaft einer Geschichte", "options": ["Moral", "Titel", "Autor", "Kapitel"], "correctAnswer": "Moral" },
+        { "id": "rd-3-10", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Was ist Ich-Erzählung?", "options": ["Geschichte aus der Sicht von 'Ich'", "Geschichte über einen Hund", "Eine sehr kurze Geschichte", "Geschichte ohne Ende"], "correctAnswer": "Geschichte aus der Sicht von 'Ich'" }
+      ]
+    },
+    {
+      "id": "read-4", "title": "Kritisches Lesen", "description": "Autorenabsicht und literarische Mittel analysieren", "ageGroup": "13-15", "difficulty": 4, "requiredCorrect": 7,
+      "questions": [
+        { "id": "rd-4-1", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Was ist 'Ironie'?", "options": ["Wenn das Gegenteil passiert", "Eine Art Komödie", "Ein trauriges Ende", "Eine lange Geschichte"], "correctAnswer": "Wenn das Gegenteil passiert" },
+        { "id": "rd-4-2", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Ein ___ ist eine Figur, die dem Protagonisten entgegensteht", "options": ["Antagonist", "Erzähler", "Autor", "Lektor"], "correctAnswer": "Antagonist" },
+        { "id": "rd-4-3", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Vorausdeutung gibt Hinweise auf spätere Ereignisse", "correctAnswer": "true" },
+        { "id": "rd-4-4", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Was ist 'Symbolik'?", "options": ["Gegenstände stehen für Ideen", "In Codes schreiben", "Eine Reimart", "Ein Kapiteltitel"], "correctAnswer": "Gegenstände stehen für Ideen" },
+        { "id": "rd-4-5", "type": "typing", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Welches Stilmittel gibt nicht-menschlichen Dingen menschliche Eigenschaften?", "correctAnswer": "Personifikation" },
+        { "id": "rd-4-6", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Was ist der 'Ton' eines Textes?", "options": ["Die Haltung des Autors", "Die Lautstärke beim Lesen", "Die Schriftgröße", "Die Seitenzahl"], "correctAnswer": "Die Haltung des Autors" },
+        { "id": "rd-4-7", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Ein ___ Erzähler weiß alles über alle Figuren", "options": ["allwissender", "begrenzter", "Ich-", "Du-"], "correctAnswer": "allwissender" },
+        { "id": "rd-4-8", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Ein unzuverlässiger Erzähler erzählt immer die volle Wahrheit", "correctAnswer": "false" },
+        { "id": "rd-4-9", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "'Ich habe eine Million Dinge zu tun' ist ein Beispiel für:", "options": ["Übertreibung", "Metapher", "Vergleich", "Ironie"], "correctAnswer": "Übertreibung" },
+        { "id": "rd-4-10", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Was bedeutet 'Thema' in der Literatur?", "options": ["Die zugrunde liegende Botschaft", "Die Hauptfigur", "Das erste Kapitel", "Das Buchcover"], "correctAnswer": "Die zugrunde liegende Botschaft" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "module": "phonics",
+  "language": "de",
+  "levels": [
+    {
+      "id": "phonics-1", "title": "Buchstabenlaute", "description": "Lerne die Laute der Buchstaben", "ageGroup": "4-6", "difficulty": 1, "requiredCorrect": 7,
+      "questions": [
+        { "id": "ph-1-1", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Welchen Laut macht der Buchstabe 'B'?", "options": ["beh", "deh", "peh", "geh"], "correctAnswer": "beh" },
+        { "id": "ph-1-2", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Welcher Buchstabe macht den Laut 'mmm'?", "options": ["M", "N", "L", "R"], "correctAnswer": "M" },
+        { "id": "ph-1-3", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Welches Wort beginnt mit 'A'?", "options": ["Apfel", "Banane", "Kirsche", "Tomate"], "correctAnswer": "Apfel" },
+        { "id": "ph-1-4", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Der Buchstabe 'S' macht den Laut 'sss'", "correctAnswer": "true" },
+        { "id": "ph-1-5", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Der Buchstabe 'K' macht den Laut 'fff'", "correctAnswer": "false" },
+        { "id": "ph-1-6", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Welches Wort beginnt mit dem gleichen Laut wie 'Hund'?", "options": ["Haus", "Maus", "Baum", "Katze"], "correctAnswer": "Haus" },
+        { "id": "ph-1-7", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Welchen Laut macht 'T'?", "options": ["teh", "peh", "keh", "beh"], "correctAnswer": "teh" },
+        { "id": "ph-1-8", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Welches Wort reimt sich auf 'Maus'?", "options": ["Haus", "Hund", "Katze", "Ball"], "correctAnswer": "Haus" },
+        { "id": "ph-1-9", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "'Fisch' beginnt mit dem Buchstaben 'F'", "correctAnswer": "true" },
+        { "id": "ph-1-10", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Welches Wort reimt sich auf 'Hut'?", "options": ["Mut", "Hund", "Baum", "Fisch"], "correctAnswer": "Mut" }
+      ]
+    },
+    {
+      "id": "phonics-2", "title": "Laute verbinden", "description": "Buchstaben zu Wörtern verbinden", "ageGroup": "7-9", "difficulty": 2, "requiredCorrect": 7,
+      "questions": [
+        { "id": "ph-2-1", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Verbinde: B-a-l-l. Welches Wort?", "options": ["Ball", "Bell", "Bull", "Bill"], "correctAnswer": "Ball" },
+        { "id": "ph-2-2", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Verbinde: Sch-u-l-e. Welches Wort?", "options": ["Schule", "Schuhe", "Schuld", "Schale"], "correctAnswer": "Schule" },
+        { "id": "ph-2-3", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Verbinde: H-u-n-d. Tippe das Wort:", "correctAnswer": "Hund" },
+        { "id": "ph-2-4", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Verbinde: B-l-u-m-e. Tippe das Wort:", "correctAnswer": "Blume" },
+        { "id": "ph-2-5", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Welches Wort hat den 'sch' Laut?", "options": ["Schiff", "Saft", "Sand", "Salz"], "correctAnswer": "Schiff" },
+        { "id": "ph-2-6", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Verbinde: K-a-t-z-e", "options": ["Katze", "Karte", "Kerze", "Kiste"], "correctAnswer": "Katze" },
+        { "id": "ph-2-7", "type": "true-false", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Verbinde B-a-u-m ergibt 'Baum'", "correctAnswer": "true" },
+        { "id": "ph-2-8", "type": "true-false", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Verbinde S-o-n-n-e ergibt 'Sand'", "correctAnswer": "false" },
+        { "id": "ph-2-9", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Welches Wort hat ein 'ei'?", "options": ["Stein", "Stuhl", "Stern", "Stift"], "correctAnswer": "Stein" },
+        { "id": "ph-2-10", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Verbinde: S-ch-l-a-n-g-e. Tippe das Wort:", "correctAnswer": "Schlange" }
+      ]
+    },
+    {
+      "id": "phonics-3", "title": "Silben", "description": "Wörter in Silben teilen", "ageGroup": "10-12", "difficulty": 3, "requiredCorrect": 7,
+      "questions": [
+        { "id": "ph-3-1", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Wie viele Silben hat 'Schmetterling'?", "options": ["2", "3", "4", "1"], "correctAnswer": "3" },
+        { "id": "ph-3-2", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Wie viele Silben hat 'Elefant'?", "options": ["2", "3", "4", "1"], "correctAnswer": "3" },
+        { "id": "ph-3-3", "type": "typing", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Wie viele Silben hat 'Computer'? Tippe die Zahl:", "correctAnswer": "3" },
+        { "id": "ph-3-4", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Was ist die Vorsilbe in 'unglücklich'?", "options": ["un", "glück", "lich", "ung"], "correctAnswer": "un" },
+        { "id": "ph-3-5", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Welche Vorsilbe bedeutet 'wieder'?", "options": ["wieder-", "un-", "vor-", "miss-"], "correctAnswer": "wieder-" },
+        { "id": "ph-3-6", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "'Vorlesen' hat die Vorsilbe 'vor-'", "correctAnswer": "true" },
+        { "id": "ph-3-7", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Das Wort 'Hund' hat zwei Silben", "correctAnswer": "false" },
+        { "id": "ph-3-8", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Welche Endung macht aus 'Freund' eine Eigenschaft?", "options": ["-lich", "-ung", "-heit", "-nis"], "correctAnswer": "-lich" },
+        { "id": "ph-3-9", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Welches Wort hat einen stummen Buchstaben?", "options": ["Schuh", "Hund", "Ball", "Maus"], "correctAnswer": "Schuh" },
+        { "id": "ph-3-10", "type": "typing", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Was ist der Wortstamm von 'Lehrer'?", "correctAnswer": "lehr" }
+      ]
+    },
+    {
+      "id": "phonics-4", "title": "Wortherkunft", "description": "Woher kommen unsere Wörter?", "ageGroup": "13-15", "difficulty": 4, "requiredCorrect": 7,
+      "questions": [
+        { "id": "ph-4-1", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Aus welcher Sprache kommt 'Telefon'?", "options": ["Griechisch", "Latein", "Französisch", "Englisch"], "correctAnswer": "Griechisch" },
+        { "id": "ph-4-2", "type": "typing", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Was bedeutet die Vorsilbe 'bio-'?", "correctAnswer": "Leben" },
+        { "id": "ph-4-3", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Was bedeutet die lateinische Wurzel 'scrib'?", "options": ["schreiben", "lesen", "sprechen", "hören"], "correctAnswer": "schreiben" },
+        { "id": "ph-4-4", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "'Auto' kommt aus dem Griechischen und bedeutet 'selbst'", "correctAnswer": "true" },
+        { "id": "ph-4-5", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Was bedeutet 'Foto' ursprünglich?", "options": ["Licht", "Bild", "Kunst", "Farbe"], "correctAnswer": "Licht" },
+        { "id": "ph-4-6", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Die Vorsilbe 'anti-' bedeutet ___", "options": ["gegen", "für", "mit", "ohne"], "correctAnswer": "gegen" },
+        { "id": "ph-4-7", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Welches Wort ist ein Anglizismus?", "options": ["Computer", "Tisch", "Stuhl", "Fenster"], "correctAnswer": "Computer" },
+        { "id": "ph-4-8", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "'Kindergarten' ist ein deutsches Wort, das ins Englische übernommen wurde", "correctAnswer": "true" },
+        { "id": "ph-4-9", "type": "typing", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Was bedeutet die griechische Wurzel 'graph'?", "correctAnswer": "schreiben" },
+        { "id": "ph-4-10", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Was bedeutet 'mikro'?", "options": ["klein", "groß", "schnell", "alt"], "correctAnswer": "klein" }
+      ]
+    }
+  ]
+}

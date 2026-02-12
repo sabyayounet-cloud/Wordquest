@@ -1,0 +1,66 @@
+{
+  "module": "spelling",
+  "language": "en",
+  "levels": [
+    {
+      "id": "spell-1", "title": "Simple Spelling", "description": "Spell basic 3-letter words", "ageGroup": "4-6", "difficulty": 1, "requiredCorrect": 7,
+      "questions": [
+        { "id": "sp-1-1", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "How do you spell this animal? 🐱", "options": ["CAT", "KAT", "BAT", "CUT"], "correctAnswer": "CAT" },
+        { "id": "sp-1-2", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "How do you spell this animal? 🐕", "options": ["DOG", "DAG", "DOK", "DUG"], "correctAnswer": "DOG" },
+        { "id": "sp-1-3", "type": "typing", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Spell the word: 🌞 (the bright thing in the sky)", "correctAnswer": "sun" },
+        { "id": "sp-1-4", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Which spelling is correct?", "options": ["RED", "RID", "RAD", "ROD"], "correctAnswer": "RED" },
+        { "id": "sp-1-5", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "'BIG' is spelled B-I-G", "correctAnswer": "true" },
+        { "id": "sp-1-6", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "'HAT' is spelled H-A-D", "correctAnswer": "false" },
+        { "id": "sp-1-7", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "How do you spell the number 1?", "options": ["ONE", "WON", "OEN", "NOE"], "correctAnswer": "ONE" },
+        { "id": "sp-1-8", "type": "typing", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Spell: a round toy you can kick ⚽", "correctAnswer": "ball" },
+        { "id": "sp-1-9", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Which is the correct spelling?", "options": ["CUP", "KUP", "COP", "KAP"], "correctAnswer": "CUP" },
+        { "id": "sp-1-10", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "How do you spell the color of grass?", "options": ["GREEN", "GREAN", "GRIEN", "GREN"], "correctAnswer": "GREEN" }
+      ]
+    },
+    {
+      "id": "spell-2", "title": "Tricky Sounds", "description": "Words with tricky letter combinations", "ageGroup": "7-9", "difficulty": 2, "requiredCorrect": 7,
+      "questions": [
+        { "id": "sp-2-1", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Spell: the opposite of night", "correctAnswer": "day" },
+        { "id": "sp-2-2", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Which is spelled correctly?", "options": ["FRIEND", "FREIND", "FREND", "FRIND"], "correctAnswer": "FRIEND" },
+        { "id": "sp-2-3", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Which is spelled correctly?", "options": ["BECAUSE", "BECUZ", "BECUSE", "BECAUS"], "correctAnswer": "BECAUSE" },
+        { "id": "sp-2-4", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Spell: where you go to learn (a building)", "correctAnswer": "school" },
+        { "id": "sp-2-5", "type": "fill-in-blank", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "I have ___ brothers and one sister", "options": ["two", "too", "to", "tow"], "correctAnswer": "two" },
+        { "id": "sp-2-6", "type": "true-false", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "'THEIR' means belonging to them", "correctAnswer": "true" },
+        { "id": "sp-2-7", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Which is the correct spelling?", "options": ["BEAUTIFUL", "BEUTIFUL", "BEAUTFUL", "BUTIFUL"], "correctAnswer": "BEAUTIFUL" },
+        { "id": "sp-2-8", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Spell: the color of snow", "correctAnswer": "white" },
+        { "id": "sp-2-9", "type": "fill-in-blank", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "We ___ going to the park", "options": ["were", "where", "wear", "we're"], "correctAnswer": "were" },
+        { "id": "sp-2-10", "type": "true-false", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "'PEOPLE' is spelled P-E-O-P-L-E", "correctAnswer": "true" }
+      ]
+    },
+    {
+      "id": "spell-3", "title": "Silent Letters & Double Letters", "description": "Master tricky spelling patterns", "ageGroup": "10-12", "difficulty": 3, "requiredCorrect": 7,
+      "questions": [
+        { "id": "sp-3-1", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Which has a silent 'k'?", "options": ["KNIFE", "KITE", "KING", "KEY"], "correctAnswer": "KNIFE" },
+        { "id": "sp-3-2", "type": "typing", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Spell: a piece of land surrounded by water", "correctAnswer": "island" },
+        { "id": "sp-3-3", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Which is spelled correctly?", "options": ["NECESSARY", "NECCESSARY", "NECESARY", "NECCESARY"], "correctAnswer": "NECESSARY" },
+        { "id": "sp-3-4", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "The ___ was very exciting to watch", "options": ["tournament", "tornament", "turnament", "tourament"], "correctAnswer": "tournament" },
+        { "id": "sp-3-5", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "'WEDNESDAY' has a silent 'd'", "correctAnswer": "true" },
+        { "id": "sp-3-6", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Which is spelled correctly?", "options": ["ACCOMMODATION", "ACCOMODATION", "ACOMODATION", "ACCOMMADATION"], "correctAnswer": "ACCOMMODATION" },
+        { "id": "sp-3-7", "type": "typing", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Spell: to get knowledge (past tense of learn)", "correctAnswer": "learned" },
+        { "id": "sp-3-8", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Which word has double 'l'?", "options": ["BALLOON", "BALON", "BALOON", "BALLON"], "correctAnswer": "BALLOON" },
+        { "id": "sp-3-9", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "'RHYTHM' has no vowels (a,e,i,o,u)", "correctAnswer": "true" },
+        { "id": "sp-3-10", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "She showed great ___ during the competition", "options": ["determination", "determinasion", "determanation", "determinetion"], "correctAnswer": "determination" }
+      ]
+    },
+    {
+      "id": "spell-4", "title": "Advanced Spelling", "description": "Complex words and word origins", "ageGroup": "13-15", "difficulty": 4, "requiredCorrect": 7,
+      "questions": [
+        { "id": "sp-4-1", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Which is spelled correctly?", "options": ["ENTREPRENEUR", "ENTREPENEUR", "ENTREPRANEUR", "ENTREPRENUR"], "correctAnswer": "ENTREPRENEUR" },
+        { "id": "sp-4-2", "type": "typing", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Spell: relating to the mind or thinking", "correctAnswer": "psychological" },
+        { "id": "sp-4-3", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Which is spelled correctly?", "options": ["CONSCIOUSNESS", "CONCIOUSNESS", "CONSCIUSNESS", "CONSCOIUSNESS"], "correctAnswer": "CONSCIOUSNESS" },
+        { "id": "sp-4-4", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "The ___ of the situation was not lost on anyone", "options": ["significance", "significanse", "signifacance", "significence"], "correctAnswer": "significance" },
+        { "id": "sp-4-5", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "'BUREAUCRACY' is spelled B-U-R-E-A-U-C-R-A-C-Y", "correctAnswer": "true" },
+        { "id": "sp-4-6", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Which is spelled correctly?", "options": ["SURVEILLANCE", "SURVEILANCE", "SURVALENCE", "SURVAILLANCE"], "correctAnswer": "SURVEILLANCE" },
+        { "id": "sp-4-7", "type": "typing", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Spell: a formal word for 'to get'", "correctAnswer": "acquire" },
+        { "id": "sp-4-8", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Which is spelled correctly?", "options": ["PHENOMENON", "PHENOMINON", "PHENOMENAN", "PHENOMEMON"], "correctAnswer": "PHENOMENON" },
+        { "id": "sp-4-9", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "'ONOMATOPOEIA' refers to words that sound like what they describe", "correctAnswer": "true" },
+        { "id": "sp-4-10", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "The ___ required extensive research", "options": ["dissertation", "disertation", "disseration", "disertasion"], "correctAnswer": "dissertation" }
+      ]
+    }
+  ]
+}

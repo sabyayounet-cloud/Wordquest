@@ -1,0 +1,179 @@
+{
+  "common": {
+    "appName": "WordQuest",
+    "loading": "Laden...",
+    "continue": "Weiter",
+    "back": "Zurück",
+    "next": "Nächste",
+    "start": "Start",
+    "retry": "Nochmal versuchen",
+    "home": "Startseite",
+    "close": "Schließen",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "yes": "Ja",
+    "no": "Nein",
+    "ok": "OK"
+  },
+  "landing": {
+    "title": "WordQuest",
+    "subtitle": "Lerne Wörter, baue Sätze, werde ein Sprachheld!",
+    "startButton": "Starte dein Abenteuer!",
+    "continueButton": "Quest fortsetzen",
+    "tagline": "Der spaßigste Weg, Sprachen zu lernen"
+  },
+  "onboarding": {
+    "welcome": "Willkommen bei WordQuest!",
+    "whatName": "Wie heißt du, Abenteurer?",
+    "namePlaceholder": "Gib deinen Namen ein...",
+    "howOld": "Wie alt bist du?",
+    "pickAvatar": "Wähle deinen Helden!",
+    "uiLanguage": "App-Sprache",
+    "learningLanguage": "Ich möchte lernen...",
+    "letsGo": "Los geht's!",
+    "ageGroups": {
+      "4-6": "4-6 Jahre (Kleine Lerner)",
+      "7-9": "7-9 Jahre (Wort-Entdecker)",
+      "10-12": "10-12 Jahre (Satzbauer)",
+      "13-15": "13-15 Jahre (Sprachmeister)"
+    }
+  },
+  "dashboard": {
+    "hello": "Hallo, {name}!",
+    "yourLevel": "Level {level}",
+    "modules": "Lernmodule",
+    "dailyChallenge": "Tägliche Herausforderung",
+    "dailyChallengeDesc": "Schließe die heutige Spezialaufgabe ab!",
+    "dailyCompleted": "Heutige Aufgabe erledigt!",
+    "streak": "Tage-Serie",
+    "totalXP": "Gesamt-XP",
+    "coins": "Münzen",
+    "levelsCompleted": "Level geschafft",
+    "startLevel": "Start",
+    "locked": "Gesperrt",
+    "completed": "Abgeschlossen",
+    "stars": "{count} Sterne"
+  },
+  "modules": {
+    "phonics": "Phonetik",
+    "phonicsDesc": "Lerne Buchstabenlaute und Reime",
+    "vocabulary": "Wortschatz",
+    "vocabularyDesc": "Entdecke neue Wörter und Bedeutungen",
+    "spelling": "Rechtschreibung",
+    "spellingDesc": "Meistere die Kunst der Rechtschreibung",
+    "sentences": "Sätze",
+    "sentencesDesc": "Baue und verstehe Sätze",
+    "grammar": "Grammatik",
+    "grammarDesc": "Lerne Grammatikregeln",
+    "reading": "Lesen",
+    "readingDesc": "Lies und verstehe Geschichten",
+    "writing": "Schreiben",
+    "writingDesc": "Drücke dich schriftlich aus"
+  },
+  "game": {
+    "question": "Frage {current} von {total}",
+    "hearts": "Herzen",
+    "combo": "Kombo x{count}",
+    "timeLeft": "Verbleibend: {seconds}s",
+    "correct": "Richtig!",
+    "wrong": "Ups! Nochmal versuchen!",
+    "perfectCombo": "PERFEKTE KOMBO!",
+    "goodJob": "Gut gemacht!",
+    "amazing": "Fantastisch!",
+    "selectAnswer": "Wähle deine Antwort",
+    "typeAnswer": "Tippe deine Antwort...",
+    "arrangeWords": "Ziehe Wörter, um den Satz zu bilden",
+    "checkAnswer": "Antwort prüfen",
+    "nextQuestion": "Nächste Frage",
+    "hint": "Hinweis",
+    "noHearts": "Keine Herzen mehr!",
+    "noHeartsDesc": "Du hast keine Herzen mehr. Versuche dieses Level nochmal!",
+    "trueFalse": {
+      "true": "Richtig",
+      "false": "Falsch"
+    }
+  },
+  "levelComplete": {
+    "title": "Level geschafft!",
+    "perfect": "PERFEKTE PUNKTZAHL!",
+    "great": "Super gemacht!",
+    "good": "Gute Arbeit!",
+    "tryHarder": "Weiter üben!",
+    "xpEarned": "+{amount} XP",
+    "coinsEarned": "+{amount} Münzen",
+    "accuracy": "{percent}% Genauigkeit",
+    "newBadge": "Neues Abzeichen verdient!",
+    "levelUp": "LEVEL UP! Du bist jetzt Level {level}!",
+    "nextLevel": "Nächstes Level",
+    "backToModules": "Zurück zu den Modulen",
+    "retryLevel": "Level wiederholen"
+  },
+  "achievements": {
+    "title": "Erfolge",
+    "badges": "Deine Abzeichen",
+    "locked": "Spiele weiter zum Freischalten!",
+    "earned": "Verdient!",
+    "rarity": {
+      "common": "Gewöhnlich",
+      "rare": "Selten",
+      "epic": "Episch",
+      "legendary": "Legendär"
+    }
+  },
+  "profile": {
+    "title": "Profil",
+    "stats": "Deine Statistiken",
+    "totalXP": "Gesamt-XP",
+    "level": "Level",
+    "streak": "Tage-Serie",
+    "coins": "Münzen",
+    "levelsCompleted": "Level abgeschlossen",
+    "perfectScores": "Perfekte Punkte",
+    "badges": "Verdiente Abzeichen",
+    "changeAvatar": "Avatar ändern",
+    "changeName": "Namen ändern",
+    "settings": "Einstellungen",
+    "uiLanguage": "App-Sprache",
+    "learningLanguage": "Lernsprache",
+    "resetProgress": "Fortschritt zurücksetzen",
+    "resetConfirm": "Bist du sicher? Das kann nicht rückgängig gemacht werden!",
+    "memberSince": "Spielt seit {date}"
+  },
+  "shop": {
+    "title": "Laden",
+    "avatars": "Avatare",
+    "themes": "Themen",
+    "powerups": "Power-ups",
+    "buy": "Kaufen",
+    "owned": "Besitzt",
+    "notEnoughCoins": "Nicht genug Münzen!",
+    "purchased": "Gekauft!",
+    "streakFreeze": "Serie-Schutz",
+    "streakFreezeDesc": "Schütze deine Serie für einen Tag",
+    "doubleXP": "Doppel-XP",
+    "doubleXPDesc": "Doppelte XP für das nächste Level",
+    "extraHearts": "Extra Herzen",
+    "extraHeartsDesc": "Starte mit 8 statt 5 Herzen"
+  },
+  "leaderboard": {
+    "title": "Bestenliste",
+    "rank": "Rang",
+    "player": "Spieler",
+    "xp": "XP",
+    "level": "Level",
+    "you": "(Du)",
+    "noPlayers": "Noch keine Spieler!"
+  },
+  "nav": {
+    "home": "Start",
+    "achievements": "Erfolge",
+    "leaderboard": "Ränge",
+    "profile": "Profil",
+    "shop": "Laden"
+  },
+  "languages": {
+    "en": "Englisch",
+    "de": "Deutsch",
+    "nl": "Niederländisch"
+  }
+}

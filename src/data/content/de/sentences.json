@@ -1,0 +1,66 @@
+{
+  "module": "sentences",
+  "language": "de",
+  "levels": [
+    {
+      "id": "sent-1", "title": "Einfache Sätze", "description": "Baue deine ersten Sätze", "ageGroup": "4-6", "difficulty": 1, "requiredCorrect": 7,
+      "questions": [
+        { "id": "se-1-1", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Welches ist ein vollständiger Satz?", "options": ["Ich mag Katzen.", "Katzen mag", "Ich Katzen", "mag"], "correctAnswer": "Ich mag Katzen." },
+        { "id": "se-1-2", "type": "drag-and-drop", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Ordne die Wörter:", "words": ["Ich", "bin", "froh"], "correctAnswer": "Ich bin froh" },
+        { "id": "se-1-3", "type": "drag-and-drop", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Ordne die Wörter:", "words": ["Die", "Katze", "ist", "groß"], "correctAnswer": "Die Katze ist groß" },
+        { "id": "se-1-4", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Was steht am Ende eines Satzes?", "options": ["Ein Punkt (.)", "Ein Stern (*)", "Ein Strich (-)", "Nichts"], "correctAnswer": "Ein Punkt (.)" },
+        { "id": "se-1-5", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "'Sie rennt schnell.' ist ein Satz", "correctAnswer": "true" },
+        { "id": "se-1-6", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "'Schnell rennt die.' ist ein guter Satz", "correctAnswer": "false" },
+        { "id": "se-1-7", "type": "fill-in-blank", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Der Hund ___ schnell", "options": ["rennt", "Stuhl", "blau", "der"], "correctAnswer": "rennt" },
+        { "id": "se-1-8", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Welcher Satz handelt von Essen?", "options": ["Ich esse Äpfel.", "Ich renne schnell.", "Ich sehe einen Vogel.", "Ich habe ein Spielzeug."], "correctAnswer": "Ich esse Äpfel." },
+        { "id": "se-1-9", "type": "drag-and-drop", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Ordne die Wörter:", "words": ["Sie", "hat", "einen", "Hund"], "correctAnswer": "Sie hat einen Hund" },
+        { "id": "se-1-10", "type": "fill-in-blank", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Ich ___ zur Schule", "options": ["gehe", "esse", "fliege", "schwimme"], "correctAnswer": "gehe" }
+      ]
+    },
+    {
+      "id": "sent-2", "title": "Bessere Sätze", "description": "Mache längere und bessere Sätze", "ageGroup": "7-9", "difficulty": 2, "requiredCorrect": 7,
+      "questions": [
+        { "id": "se-2-1", "type": "drag-and-drop", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Baue einen Satz:", "words": ["Der", "Hund", "jagt", "den", "Ball"], "correctAnswer": "Der Hund jagt den Ball" },
+        { "id": "se-2-2", "type": "fill-in-blank", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Sie ___ gestern in den Laden", "options": ["ging", "geht", "gehend", "gehen"], "correctAnswer": "ging" },
+        { "id": "se-2-3", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Welcher Satz benutzt 'und' richtig?", "options": ["Ich mag Katzen und Hunde.", "Ich und mag Katzen Hunde.", "Und ich Katzen mag Hunde.", "Katzen ich und mag Hunde."], "correctAnswer": "Ich mag Katzen und Hunde." },
+        { "id": "se-2-4", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Welches Satzzeichen steht am Ende einer Frage?", "correctAnswer": "?" },
+        { "id": "se-2-5", "type": "true-false", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "'Wohin gehst du?' ist eine Frage", "correctAnswer": "true" },
+        { "id": "se-2-6", "type": "fill-in-blank", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Sie ___ im Garten", "options": ["spielen", "spielt", "spielst", "spiele"], "correctAnswer": "spielen" },
+        { "id": "se-2-7", "type": "drag-and-drop", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Baue eine Frage:", "words": ["Wo", "ist", "die", "Katze"], "correctAnswer": "Wo ist die Katze" },
+        { "id": "se-2-8", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Welches Wort verbindet zwei Ideen?", "options": ["weil", "froh", "rennen", "blau"], "correctAnswer": "weil" },
+        { "id": "se-2-9", "type": "true-false", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Ein Ausrufezeichen (!) zeigt starke Gefühle", "correctAnswer": "true" },
+        { "id": "se-2-10", "type": "fill-in-blank", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Er ___ keinen Spinat", "options": ["mag", "magen", "mögt", "magt"], "correctAnswer": "mag" }
+      ]
+    },
+    {
+      "id": "sent-3", "title": "Komplexe Sätze", "description": "Ideen mit Konjunktionen verbinden", "ageGroup": "10-12", "difficulty": 3, "requiredCorrect": 7,
+      "questions": [
+        { "id": "se-3-1", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Ich ging hinein, ___ es anfing zu regnen", "options": ["weil", "aber", "oder", "also"], "correctAnswer": "weil" },
+        { "id": "se-3-2", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Welches ist ein zusammengesetzter Satz?", "options": ["Ich lief und sie ging.", "Ich lief.", "Schnell laufend.", "Der große rote Hund."], "correctAnswer": "Ich lief und sie ging." },
+        { "id": "se-3-3", "type": "drag-and-drop", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Baue einen komplexen Satz:", "words": ["Obwohl", "es", "regnete", "spielten", "wir", "weiter"], "correctAnswer": "Obwohl es regnete spielten wir weiter" },
+        { "id": "se-3-4", "type": "typing", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Welche Konjunktion bedeutet 'trotzdem'? (j_____)", "correctAnswer": "jedoch" },
+        { "id": "se-3-5", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "'Bevor du gehst, schließe das Fenster' ist ein komplexer Satz", "correctAnswer": "true" },
+        { "id": "se-3-6", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Sie lernte fleißig, ___ bestand sie die Prüfung", "options": ["deshalb", "obwohl", "falls", "bevor"], "correctAnswer": "deshalb" },
+        { "id": "se-3-7", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Welcher Satz benutzt ein Semikolon richtig?", "options": ["Ich lese gern; sie schreibt lieber.", "Ich gern; lese sie schreibt.", "; Ich lese gern sie schreibt.", "Ich lese gern sie; schreibt lieber."], "correctAnswer": "Ich lese gern; sie schreibt lieber." },
+        { "id": "se-3-8", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Ein Hauptsatz kann alleine stehen", "correctAnswer": "true" },
+        { "id": "se-3-9", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "___ das Wetter besser wird, fällt das Spiel aus", "options": ["Falls", "Weil", "Nachdem", "Seit"], "correctAnswer": "Falls" },
+        { "id": "se-3-10", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Was ist ein Einleitungssatz?", "options": ["Der erste Satz eines Absatzes", "Der letzte Satz", "Eine Frage", "Ein Titel"], "correctAnswer": "Der erste Satz eines Absatzes" }
+      ]
+    },
+    {
+      "id": "sent-4", "title": "Schreibstil", "description": "Satzvielfalt und Stil meistern", "ageGroup": "13-15", "difficulty": 4, "requiredCorrect": 7,
+      "questions": [
+        { "id": "se-4-1", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Welcher Satz ist im Aktiv?", "options": ["Der Koch kochte das Essen.", "Das Essen wurde vom Koch gekocht.", "Das Essen wurde gekocht.", "Gekocht wurde das Essen."], "correctAnswer": "Der Koch kochte das Essen." },
+        { "id": "se-4-2", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "___ die Beweise dagegen sprechen, bleibt die Theorie beliebt", "options": ["Obwohl", "Weil", "Seit", "Nachdem"], "correctAnswer": "Obwohl" },
+        { "id": "se-4-3", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Passiv ist beim Schreiben immer falsch", "correctAnswer": "false" },
+        { "id": "se-4-4", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Was ist eine rhetorische Frage?", "options": ["Wer liebt keinen Sonnenschein?", "Wie spät ist es?", "Wo ist die Bibliothek?", "Wie alt bist du?"], "correctAnswer": "Wer liebt keinen Sonnenschein?" },
+        { "id": "se-4-5", "type": "typing", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Welches Stilmittel wiederholt den Anfangsbuchstaben? (Beispiel: Milch macht müde Männer munter)", "correctAnswer": "Alliteration" },
+        { "id": "se-4-6", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Die Forschung ___, dass der Klimawandel sich beschleunigt", "options": ["zeigt", "froh", "rennt", "blau"], "correctAnswer": "zeigt" },
+        { "id": "se-4-7", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Welcher Satz hat parallele Struktur?", "options": ["Sie liest, schreibt und schwimmt gern.", "Sie liest gern, zu schreiben und schwimmen.", "Lesen sie gern, schreiben und zu schwimmen.", "Gern liest sie und schreiben zu schwimmen."], "correctAnswer": "Sie liest, schreibt und schwimmt gern." },
+        { "id": "se-4-8", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Eine These präsentiert das Hauptargument eines Aufsatzes", "correctAnswer": "true" },
+        { "id": "se-4-9", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Die Studie wurde ___ durchgeführt; die Ergebnisse waren überraschend", "options": ["sorgfältig", "froh", "grün", "schnell"], "correctAnswer": "sorgfältig" },
+        { "id": "se-4-10", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Was macht einen guten Schluss aus?", "options": ["Fasst Hauptpunkte zusammen und gibt Ausblick", "Führt neue Themen ein", "Wiederholt die Einleitung genau", "Stellt viele Fragen"], "correctAnswer": "Fasst Hauptpunkte zusammen und gibt Ausblick" }
+      ]
+    }
+  ]
+}

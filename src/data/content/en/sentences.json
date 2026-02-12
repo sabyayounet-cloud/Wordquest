@@ -1,0 +1,66 @@
+{
+  "module": "sentences",
+  "language": "en",
+  "levels": [
+    {
+      "id": "sent-1", "title": "Simple Sentences", "description": "Build your first sentences", "ageGroup": "4-6", "difficulty": 1, "requiredCorrect": 7,
+      "questions": [
+        { "id": "se-1-1", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Which is a complete sentence?", "options": ["I like cats.", "cats like", "I cats", "like"], "correctAnswer": "I like cats." },
+        { "id": "se-1-2", "type": "drag-and-drop", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Put the words in order:", "words": ["I", "am", "happy"], "correctAnswer": "I am happy" },
+        { "id": "se-1-3", "type": "drag-and-drop", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Put the words in order:", "words": ["The", "cat", "is", "big"], "correctAnswer": "The cat is big" },
+        { "id": "se-1-4", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "What goes at the end of a sentence?", "options": ["A period (.)", "A star (*)", "A dash (-)", "Nothing"], "correctAnswer": "A period (.)" },
+        { "id": "se-1-5", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "'She is running.' is a sentence", "correctAnswer": "true" },
+        { "id": "se-1-6", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "'Running fast the.' is a sentence", "correctAnswer": "false" },
+        { "id": "se-1-7", "type": "fill-in-blank", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "The dog ___ fast", "options": ["runs", "chair", "blue", "the"], "correctAnswer": "runs" },
+        { "id": "se-1-8", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Which sentence is about food?", "options": ["I eat apples.", "I run fast.", "I see a bird.", "I have a toy."], "correctAnswer": "I eat apples." },
+        { "id": "se-1-9", "type": "drag-and-drop", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Put the words in order:", "words": ["She", "has", "a", "dog"], "correctAnswer": "She has a dog" },
+        { "id": "se-1-10", "type": "fill-in-blank", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "I ___ to school", "options": ["go", "eat", "fly", "swim"], "correctAnswer": "go" }
+      ]
+    },
+    {
+      "id": "sent-2", "title": "Better Sentences", "description": "Make longer and better sentences", "ageGroup": "7-9", "difficulty": 2, "requiredCorrect": 7,
+      "questions": [
+        { "id": "se-2-1", "type": "drag-and-drop", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Build a sentence:", "words": ["The", "dog", "chased", "the", "ball"], "correctAnswer": "The dog chased the ball" },
+        { "id": "se-2-2", "type": "fill-in-blank", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "She ___ to the store yesterday", "options": ["went", "goes", "going", "go"], "correctAnswer": "went" },
+        { "id": "se-2-3", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Which sentence uses 'and' correctly?", "options": ["I like cats and dogs.", "I and like cats dogs.", "And I cats like dogs.", "Cats I and like dogs."], "correctAnswer": "I like cats and dogs." },
+        { "id": "se-2-4", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "What punctuation ends a question?", "correctAnswer": "?" },
+        { "id": "se-2-5", "type": "true-false", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "'Where are you going?' is a question", "correctAnswer": "true" },
+        { "id": "se-2-6", "type": "fill-in-blank", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "They ___ playing in the garden", "options": ["are", "is", "am", "be"], "correctAnswer": "are" },
+        { "id": "se-2-7", "type": "drag-and-drop", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Build a question:", "words": ["Where", "is", "the", "cat"], "correctAnswer": "Where is the cat" },
+        { "id": "se-2-8", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Which word connects two ideas?", "options": ["because", "happy", "run", "blue"], "correctAnswer": "because" },
+        { "id": "se-2-9", "type": "true-false", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "An exclamation mark (!) shows strong feelings", "correctAnswer": "true" },
+        { "id": "se-2-10", "type": "fill-in-blank", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "He ___ not like spinach", "options": ["does", "do", "is", "are"], "correctAnswer": "does" }
+      ]
+    },
+    {
+      "id": "sent-3", "title": "Complex Sentences", "description": "Combine ideas with conjunctions", "ageGroup": "10-12", "difficulty": 3, "requiredCorrect": 7,
+      "questions": [
+        { "id": "se-3-1", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "I went inside ___ it started raining", "options": ["because", "but", "or", "so"], "correctAnswer": "because" },
+        { "id": "se-3-2", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Which is a compound sentence?", "options": ["I ran and she walked.", "I ran.", "Running fast.", "The big red dog."], "correctAnswer": "I ran and she walked." },
+        { "id": "se-3-3", "type": "drag-and-drop", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Build a complex sentence:", "words": ["Although", "it", "rained", "we", "still", "played"], "correctAnswer": "Although it rained we still played" },
+        { "id": "se-3-4", "type": "typing", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "What conjunction means 'in spite of that'? (h_____r)", "correctAnswer": "however" },
+        { "id": "se-3-5", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "'Before you leave, close the window' is a complex sentence", "correctAnswer": "true" },
+        { "id": "se-3-6", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "She studied hard, ___ she passed the test", "options": ["therefore", "although", "unless", "before"], "correctAnswer": "therefore" },
+        { "id": "se-3-7", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Which uses a semicolon correctly?", "options": ["I love reading; she prefers writing.", "I love; reading she prefers.", "; I love reading she prefers.", "I love reading she; prefers writing."], "correctAnswer": "I love reading; she prefers writing." },
+        { "id": "se-3-8", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "A run-on sentence is when two sentences are joined without punctuation", "correctAnswer": "true" },
+        { "id": "se-3-9", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "___ the weather improves, the game will be cancelled", "options": ["Unless", "Because", "After", "Since"], "correctAnswer": "Unless" },
+        { "id": "se-3-10", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "What is a topic sentence?", "options": ["The first sentence of a paragraph", "The last sentence", "A question", "A title"], "correctAnswer": "The first sentence of a paragraph" }
+      ]
+    },
+    {
+      "id": "sent-4", "title": "Writing Style", "description": "Master sentence variety and style", "ageGroup": "13-15", "difficulty": 4, "requiredCorrect": 7,
+      "questions": [
+        { "id": "se-4-1", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Which sentence uses active voice?", "options": ["The chef cooked the meal.", "The meal was cooked by the chef.", "The meal was cooked.", "Cooked was the meal."], "correctAnswer": "The chef cooked the meal." },
+        { "id": "se-4-2", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "___ the evidence suggests otherwise, the theory remains popular", "options": ["Although", "Because", "Since", "After"], "correctAnswer": "Although" },
+        { "id": "se-4-3", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Passive voice is always wrong in writing", "correctAnswer": "false" },
+        { "id": "se-4-4", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Which is a rhetorical question?", "options": ["Who doesn't love sunshine?", "What time is it?", "Where is the library?", "How old are you?"], "correctAnswer": "Who doesn't love sunshine?" },
+        { "id": "se-4-5", "type": "typing", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "What literary device repeats the first letter? (example: Peter Piper picked)", "correctAnswer": "alliteration" },
+        { "id": "se-4-6", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "The research ___ that climate change is accelerating", "options": ["indicates", "happy", "running", "blue"], "correctAnswer": "indicates" },
+        { "id": "se-4-7", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Which sentence has parallel structure?", "options": ["She likes reading, writing, and swimming.", "She likes reading, to write, and swim.", "She reading likes, writing, and to swim.", "Reading she likes and writing to swim."], "correctAnswer": "She likes reading, writing, and swimming." },
+        { "id": "se-4-8", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "A thesis statement presents the main argument of an essay", "correctAnswer": "true" },
+        { "id": "se-4-9", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "The study was conducted ___; the results were surprising", "options": ["meticulously", "happy", "green", "fast"], "correctAnswer": "meticulously" },
+        { "id": "se-4-10", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "What makes a strong conclusion?", "options": ["Summarizes key points and adds insight", "Introduces new topics", "Repeats the introduction exactly", "Asks many questions"], "correctAnswer": "Summarizes key points and adds insight" }
+      ]
+    }
+  ]
+}

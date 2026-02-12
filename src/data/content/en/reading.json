@@ -1,0 +1,66 @@
+{
+  "module": "reading",
+  "language": "en",
+  "levels": [
+    {
+      "id": "read-1", "title": "Reading Fun", "description": "Read simple words and sentences", "ageGroup": "4-6", "difficulty": 1, "requiredCorrect": 7,
+      "questions": [
+        { "id": "rd-1-1", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Read: 'The cat sat on the mat.' Where did the cat sit?", "options": ["On the mat", "On the bed", "On the chair", "On the table"], "correctAnswer": "On the mat" },
+        { "id": "rd-1-2", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Read: 'I see a big red ball.' What color is the ball?", "options": ["Red", "Blue", "Green", "Yellow"], "correctAnswer": "Red" },
+        { "id": "rd-1-3", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Read: 'The sun is hot.' The sun is cold.", "correctAnswer": "false" },
+        { "id": "rd-1-4", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Read: 'Sam has a dog. The dog is brown.' What pet does Sam have?", "options": ["A dog", "A cat", "A fish", "A bird"], "correctAnswer": "A dog" },
+        { "id": "rd-1-5", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Read: 'Fish live in water.' Fish live on land.", "correctAnswer": "false" },
+        { "id": "rd-1-6", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Read: 'Mom gave me a cookie.' Who gave the cookie?", "options": ["Mom", "Dad", "Friend", "Teacher"], "correctAnswer": "Mom" },
+        { "id": "rd-1-7", "type": "fill-in-blank", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Read: 'The ___ is in the sky.' (bright and yellow)", "options": ["sun", "cat", "ball", "shoe"], "correctAnswer": "sun" },
+        { "id": "rd-1-8", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Read: 'I like to eat apples and bananas.' What does the person like?", "options": ["Fruit", "Toys", "Books", "Cars"], "correctAnswer": "Fruit" },
+        { "id": "rd-1-9", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Read: 'Birds can fly.' Birds can fly.", "correctAnswer": "true" },
+        { "id": "rd-1-10", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Read: 'It is raining. I need my umbrella.' Why do I need an umbrella?", "options": ["It is raining", "It is sunny", "It is snowing", "It is windy"], "correctAnswer": "It is raining" }
+      ]
+    },
+    {
+      "id": "read-2", "title": "Story Time", "description": "Understand short stories", "ageGroup": "7-9", "difficulty": 2, "requiredCorrect": 7,
+      "questions": [
+        { "id": "rd-2-1", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Read: 'Tom was late for school. He ran as fast as he could.' Why did Tom run?", "options": ["He was late", "He was happy", "He saw a dog", "He was playing"], "correctAnswer": "He was late" },
+        { "id": "rd-2-2", "type": "fill-in-blank", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Read: 'The ___ blew the leaves off the trees.'", "options": ["wind", "sun", "rain", "snow"], "correctAnswer": "wind" },
+        { "id": "rd-2-3", "type": "true-false", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Read: 'Sara loves painting. She paints every day after school.' Sara paints in the morning.", "correctAnswer": "false" },
+        { "id": "rd-2-4", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Read: 'The boy looked sad. His ice cream fell on the ground.' How does the boy feel?", "options": ["Sad", "Happy", "Angry", "Excited"], "correctAnswer": "Sad" },
+        { "id": "rd-2-5", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "What is the main idea of a story?", "options": ["What the story is mostly about", "The first word", "The last sentence", "The title only"], "correctAnswer": "What the story is mostly about" },
+        { "id": "rd-2-6", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Read: 'The dog wagged its tail and jumped up.' Is the dog happy or sad?", "correctAnswer": "happy" },
+        { "id": "rd-2-7", "type": "true-false", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Read: 'Bears sleep all winter.' This is called hibernation.", "correctAnswer": "true" },
+        { "id": "rd-2-8", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Read: 'First, mix the flour. Then, add the eggs. Finally, bake.' What do you add after flour?", "options": ["Eggs", "Sugar", "Water", "Butter"], "correctAnswer": "Eggs" },
+        { "id": "rd-2-9", "type": "fill-in-blank", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "A story has a beginning, a ___, and an end", "options": ["middle", "top", "side", "back"], "correctAnswer": "middle" },
+        { "id": "rd-2-10", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Read: 'Lily planted a seed. She watered it every day. A flower grew!' What happened last?", "options": ["A flower grew", "She planted a seed", "She watered it", "She got a pot"], "correctAnswer": "A flower grew" }
+      ]
+    },
+    {
+      "id": "read-3", "title": "Comprehension", "description": "Analyze texts and find meaning", "ageGroup": "10-12", "difficulty": 3, "requiredCorrect": 7,
+      "questions": [
+        { "id": "rd-3-1", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "What does 'reading between the lines' mean?", "options": ["Understanding hidden meaning", "Reading very slowly", "Skipping lines", "Reading backwards"], "correctAnswer": "Understanding hidden meaning" },
+        { "id": "rd-3-2", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Read: 'Jake slammed the door and threw his bag.' How does Jake feel?", "options": ["Angry", "Happy", "Sleepy", "Hungry"], "correctAnswer": "Angry" },
+        { "id": "rd-3-3", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "A 'protagonist' is the main character of a story", "correctAnswer": "true" },
+        { "id": "rd-3-4", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "The ___ is the problem or struggle in a story", "options": ["conflict", "setting", "theme", "title"], "correctAnswer": "conflict" },
+        { "id": "rd-3-5", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "What is a 'metaphor'?", "options": ["Comparing without using like or as", "A type of poem", "The ending of a story", "A list of characters"], "correctAnswer": "Comparing without using like or as" },
+        { "id": "rd-3-6", "type": "typing", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "What is the setting of a story? (where and ___)", "correctAnswer": "when" },
+        { "id": "rd-3-7", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Read: 'Her smile was as bright as the sun.' This is a:", "options": ["Simile", "Metaphor", "Alliteration", "Hyperbole"], "correctAnswer": "Simile" },
+        { "id": "rd-3-8", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Fiction means the story is made up", "correctAnswer": "true" },
+        { "id": "rd-3-9", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "The ___ is the lesson or message of a story", "options": ["moral", "title", "author", "chapter"], "correctAnswer": "moral" },
+        { "id": "rd-3-10", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Which is told from first-person point of view?", "options": ["I walked to school.", "He walked to school.", "She walked to school.", "They walked to school."], "correctAnswer": "I walked to school." }
+      ]
+    },
+    {
+      "id": "read-4", "title": "Critical Reading", "description": "Analyze author intent and literary devices", "ageGroup": "13-15", "difficulty": 4, "requiredCorrect": 7,
+      "questions": [
+        { "id": "rd-4-1", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "What is 'irony'?", "options": ["When the opposite of expected happens", "A type of comedy", "A sad ending", "A long story"], "correctAnswer": "When the opposite of expected happens" },
+        { "id": "rd-4-2", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "An ___ is a character who opposes the protagonist", "options": ["antagonist", "narrator", "author", "editor"], "correctAnswer": "antagonist" },
+        { "id": "rd-4-3", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Foreshadowing gives hints about what will happen later in the story", "correctAnswer": "true" },
+        { "id": "rd-4-4", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "What is 'symbolism'?", "options": ["Using objects to represent ideas", "Writing in code", "A type of rhyme", "A chapter title"], "correctAnswer": "Using objects to represent ideas" },
+        { "id": "rd-4-5", "type": "typing", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "What literary device gives human qualities to non-human things?", "correctAnswer": "personification" },
+        { "id": "rd-4-6", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "What is the 'tone' of a text?", "options": ["The author's attitude", "The volume of reading", "The font size", "The page count"], "correctAnswer": "The author's attitude" },
+        { "id": "rd-4-7", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "A ___ narrator knows everything about all characters", "options": ["omniscient", "limited", "first-person", "second-person"], "correctAnswer": "omniscient" },
+        { "id": "rd-4-8", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "An unreliable narrator always tells the complete truth", "correctAnswer": "false" },
+        { "id": "rd-4-9", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "'I have a million things to do' is an example of:", "options": ["Hyperbole", "Metaphor", "Simile", "Irony"], "correctAnswer": "Hyperbole" },
+        { "id": "rd-4-10", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "What does 'theme' mean in literature?", "options": ["The underlying message", "The main character", "The first chapter", "The book cover"], "correctAnswer": "The underlying message" }
+      ]
+    }
+  ]
+}

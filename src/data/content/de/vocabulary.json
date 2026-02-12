@@ -1,0 +1,66 @@
+{
+  "module": "vocabulary",
+  "language": "de",
+  "levels": [
+    {
+      "id": "vocab-1", "title": "Erste Wörter", "description": "Lerne einfache Alltagswörter", "ageGroup": "4-6", "difficulty": 1, "requiredCorrect": 7,
+      "questions": [
+        { "id": "v-1-1", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Was ist dieses Tier? 🐶", "options": ["Hund", "Katze", "Vogel", "Fisch"], "correctAnswer": "Hund" },
+        { "id": "v-1-2", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Welche Farbe hat der Himmel?", "options": ["Blau", "Rot", "Grün", "Gelb"], "correctAnswer": "Blau" },
+        { "id": "v-1-3", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Was ist diese Frucht? 🍎", "options": ["Apfel", "Banane", "Orange", "Traube"], "correctAnswer": "Apfel" },
+        { "id": "v-1-4", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Ein 'Tisch' ist etwas, worauf man sitzt", "correctAnswer": "false" },
+        { "id": "v-1-5", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Ein 'Schuh' kommt an den Fuß", "correctAnswer": "true" },
+        { "id": "v-1-6", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Welches Tier kann fliegen?", "options": ["Vogel", "Hund", "Katze", "Fisch"], "correctAnswer": "Vogel" },
+        { "id": "v-1-7", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Was trinkst du? 🥛", "options": ["Milch", "Brot", "Reis", "Kuchen"], "correctAnswer": "Milch" },
+        { "id": "v-1-8", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Was ist das? 🌳", "options": ["Baum", "Blume", "Busch", "Gras"], "correctAnswer": "Baum" },
+        { "id": "v-1-9", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Die Sonne kommt in der Nacht raus", "correctAnswer": "false" },
+        { "id": "v-1-10", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Was trägst du auf dem Kopf?", "options": ["Hut", "Handschuhe", "Socken", "Gürtel"], "correctAnswer": "Hut" }
+      ]
+    },
+    {
+      "id": "vocab-2", "title": "Rund ums Haus", "description": "Wörter über Zuhause und Familie", "ageGroup": "7-9", "difficulty": 2, "requiredCorrect": 7,
+      "questions": [
+        { "id": "v-2-1", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Wo kochst du Essen?", "options": ["Küche", "Schlafzimmer", "Badezimmer", "Garten"], "correctAnswer": "Küche" },
+        { "id": "v-2-2", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Worin schläfst du nachts?", "correctAnswer": "Bett" },
+        { "id": "v-2-3", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Was ist ein Synonym für 'froh'?", "options": ["glücklich", "traurig", "wütend", "müde"], "correctAnswer": "glücklich" },
+        { "id": "v-2-4", "type": "fill-in-blank", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Ich benutze einen ___ zum Schreiben", "options": ["Stift", "Tasse", "Hut", "Schuh"], "correctAnswer": "Stift" },
+        { "id": "v-2-5", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Was ist das Gegenteil von 'heiß'?", "options": ["kalt", "warm", "kühl", "nass"], "correctAnswer": "kalt" },
+        { "id": "v-2-6", "type": "true-false", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Ein 'Kühlschrank' hält Essen kalt", "correctAnswer": "true" },
+        { "id": "v-2-7", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Was ist das Gegenteil von 'groß'?", "correctAnswer": "klein" },
+        { "id": "v-2-8", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Welches Wort bedeutet 'ein Ort zum Einkaufen'?", "options": ["Laden", "Park", "Schule", "Bibliothek"], "correctAnswer": "Laden" },
+        { "id": "v-2-9", "type": "fill-in-blank", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Ich wasche meine Hände mit ___ und Wasser", "options": ["Seife", "Milch", "Saft", "Sand"], "correctAnswer": "Seife" },
+        { "id": "v-2-10", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Was bedeutet 'riesig'?", "options": ["Sehr groß", "Sehr klein", "Sehr schnell", "Sehr langsam"], "correctAnswer": "Sehr groß" }
+      ]
+    },
+    {
+      "id": "vocab-3", "title": "Beschreibende Wörter", "description": "Adjektive und fortgeschrittener Wortschatz", "ageGroup": "10-12", "difficulty": 3, "requiredCorrect": 7,
+      "questions": [
+        { "id": "v-3-1", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Was bedeutet 'mutig'?", "options": ["Tapfer", "Ängstlich", "Lustig", "Klug"], "correctAnswer": "Tapfer" },
+        { "id": "v-3-2", "type": "typing", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Was ist ein Synonym für 'hübsch'?", "correctAnswer": "schön" },
+        { "id": "v-3-3", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Der ___ Wissenschaftler machte eine wichtige Entdeckung", "options": ["brillante", "leckere", "laute", "lila"], "correctAnswer": "brillante" },
+        { "id": "v-3-4", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Was bedeutet 'seltsam'?", "options": ["Merkwürdig", "Normal", "Schön", "Schnell"], "correctAnswer": "Merkwürdig" },
+        { "id": "v-3-5", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Welches Wort bedeutet 'kleiner machen'?", "options": ["Verkleinern", "Vergrößern", "Erweitern", "Vermehren"], "correctAnswer": "Verkleinern" },
+        { "id": "v-3-6", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "'Durchsichtig' bedeutet, man kann hindurchsehen", "correctAnswer": "true" },
+        { "id": "v-3-7", "type": "typing", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Was ist das Gegenteil von 'alt'?", "correctAnswer": "neu" },
+        { "id": "v-3-8", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Was bedeutet 'zögerlich'?", "options": ["Unsicher", "Eifrig", "Fröhlich", "Schnell"], "correctAnswer": "Unsicher" },
+        { "id": "v-3-9", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Der Sonnenuntergang war absolut ___", "options": ["wunderschön", "schrecklich", "langweilig", "winzig"], "correctAnswer": "wunderschön" },
+        { "id": "v-3-10", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "'Nachtaktiv' bedeutet tagsüber aktiv", "correctAnswer": "false" }
+      ]
+    },
+    {
+      "id": "vocab-4", "title": "Akademische Wörter", "description": "Fortgeschrittener Wortschatz für Jugendliche", "ageGroup": "13-15", "difficulty": 4, "requiredCorrect": 7,
+      "questions": [
+        { "id": "v-4-1", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Was bedeutet 'mehrdeutig'?", "options": ["Unklar", "Sicher", "Wütend", "Fröhlich"], "correctAnswer": "Unklar" },
+        { "id": "v-4-2", "type": "typing", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Welches Wort bedeutet 'leichter machen'?", "correctAnswer": "erleichtern" },
+        { "id": "v-4-3", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Was bedeutet 'pragmatisch'?", "options": ["Praktisch", "Träumerisch", "Künstlerisch", "Faul"], "correctAnswer": "Praktisch" },
+        { "id": "v-4-4", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Die Beweise waren ___ und widerlegten die Theorie", "options": ["widersprüchlich", "unterstützend", "unsichtbar", "lecker"], "correctAnswer": "widersprüchlich" },
+        { "id": "v-4-5", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Was bedeutet 'vergänglich'?", "options": ["Kurzlebig", "Ewig", "Schwer", "Hell"], "correctAnswer": "Kurzlebig" },
+        { "id": "v-4-6", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "'Allgegenwärtig' bedeutet überall zu finden", "correctAnswer": "true" },
+        { "id": "v-4-7", "type": "typing", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Welches Wort bedeutet 'ein starkes Gefühl der Abneigung'?", "correctAnswer": "Abneigung" },
+        { "id": "v-4-8", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Was bedeutet 'akribisch'?", "options": ["Sehr sorgfältig", "Sehr schnell", "Sehr laut", "Sehr groß"], "correctAnswer": "Sehr sorgfältig" },
+        { "id": "v-4-9", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Ihre ___ Rede inspirierte die ganze Schule", "options": ["eloquente", "gemurrmelte", "langweilige", "leise"], "correctAnswer": "eloquente" },
+        { "id": "v-4-10", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "'Wohlwollend' bedeutet grausam und unfreundlich", "correctAnswer": "false" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "module": "phonics",
+  "language": "en",
+  "levels": [
+    {
+      "id": "phonics-1", "title": "Letter Sounds", "description": "Learn basic letter sounds", "ageGroup": "4-6", "difficulty": 1, "requiredCorrect": 7,
+      "questions": [
+        { "id": "ph-1-1", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "What sound does the letter 'B' make?", "options": ["buh", "duh", "puh", "guh"], "correctAnswer": "buh" },
+        { "id": "ph-1-2", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Which letter makes the 'sss' sound?", "options": ["S", "Z", "C", "X"], "correctAnswer": "S" },
+        { "id": "ph-1-3", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "What sound does 'M' make?", "options": ["nnn", "mmm", "lll", "rrr"], "correctAnswer": "mmm" },
+        { "id": "ph-1-4", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "The letter 'D' makes the 'duh' sound", "correctAnswer": "true" },
+        { "id": "ph-1-5", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "The letter 'K' makes the 'sss' sound", "correctAnswer": "false" },
+        { "id": "ph-1-6", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Which word starts with the 'cuh' sound?", "options": ["cat", "bat", "sat", "hat"], "correctAnswer": "cat" },
+        { "id": "ph-1-7", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Which word starts with the same sound as 'fish'?", "options": ["fun", "sun", "bun", "run"], "correctAnswer": "fun" },
+        { "id": "ph-1-8", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "What sound does the letter 'T' make?", "options": ["tuh", "puh", "kuh", "buh"], "correctAnswer": "tuh" },
+        { "id": "ph-1-9", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Which word rhymes with 'cat'?", "options": ["bat", "dog", "cup", "sun"], "correctAnswer": "bat" },
+        { "id": "ph-1-10", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Which word rhymes with 'sun'?", "options": ["sat", "fun", "big", "top"], "correctAnswer": "fun" }
+      ]
+    },
+    {
+      "id": "phonics-2", "title": "Blending Sounds", "description": "Blend letters to make words", "ageGroup": "7-9", "difficulty": 2, "requiredCorrect": 7,
+      "questions": [
+        { "id": "ph-2-1", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Blend: c-a-t. What word?", "options": ["cat", "cut", "cot", "kit"], "correctAnswer": "cat" },
+        { "id": "ph-2-2", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Blend: sh-i-p. What word?", "options": ["shop", "ship", "shape", "sheep"], "correctAnswer": "ship" },
+        { "id": "ph-2-3", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Blend: f-r-o-g. Type the word:", "correctAnswer": "frog" },
+        { "id": "ph-2-4", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Blend: b-l-u-e. Type the word:", "correctAnswer": "blue" },
+        { "id": "ph-2-5", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Blend: s-t-a-r", "options": ["star", "stir", "store", "stare"], "correctAnswer": "star" },
+        { "id": "ph-2-6", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Blend: ch-ee-se", "options": ["chase", "chess", "cheese", "choose"], "correctAnswer": "cheese" },
+        { "id": "ph-2-7", "type": "true-false", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Blending p-l-a-n-e gives 'plane'", "correctAnswer": "true" },
+        { "id": "ph-2-8", "type": "true-false", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Blending t-r-a-i-n gives 'tree'", "correctAnswer": "false" },
+        { "id": "ph-2-9", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Which has the 'th' sound?", "options": ["three", "tree", "free", "see"], "correctAnswer": "three" },
+        { "id": "ph-2-10", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Blend: s-n-a-k-e. Type the word:", "correctAnswer": "snake" }
+      ]
+    },
+    {
+      "id": "phonics-3", "title": "Syllables", "description": "Break words into syllables", "ageGroup": "10-12", "difficulty": 3, "requiredCorrect": 7,
+      "questions": [
+        { "id": "ph-3-1", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "How many syllables in 'butterfly'?", "options": ["2", "3", "4", "1"], "correctAnswer": "3" },
+        { "id": "ph-3-2", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "How many syllables in 'elephant'?", "options": ["2", "3", "4", "1"], "correctAnswer": "3" },
+        { "id": "ph-3-3", "type": "typing", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "How many syllables in 'computer'? Type the number:", "correctAnswer": "3" },
+        { "id": "ph-3-4", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "What is the root word of 'unhappy'?", "options": ["un", "happy", "unhap", "appy"], "correctAnswer": "happy" },
+        { "id": "ph-3-5", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "What prefix means 'not'?", "options": ["re-", "un-", "pre-", "mis-"], "correctAnswer": "un-" },
+        { "id": "ph-3-6", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "The word 'replay' has the prefix 're-' meaning 'again'", "correctAnswer": "true" },
+        { "id": "ph-3-7", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "The word 'cat' has two syllables", "correctAnswer": "false" },
+        { "id": "ph-3-8", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "What suffix turns 'teach' into a person?", "options": ["-ing", "-er", "-ly", "-ness"], "correctAnswer": "-er" },
+        { "id": "ph-3-9", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Which word has a silent letter?", "options": ["cat", "knife", "bed", "run"], "correctAnswer": "knife" },
+        { "id": "ph-3-10", "type": "typing", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "What is the root of 'rewriting'?", "correctAnswer": "write" }
+      ]
+    },
+    {
+      "id": "phonics-4", "title": "Word Origins", "description": "Explore etymology and word roots", "ageGroup": "13-15", "difficulty": 4, "requiredCorrect": 7,
+      "questions": [
+        { "id": "ph-4-1", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "The Greek root 'bio' means:", "options": ["water", "life", "earth", "fire"], "correctAnswer": "life" },
+        { "id": "ph-4-2", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "The Latin root 'aqua' means:", "options": ["air", "fire", "water", "earth"], "correctAnswer": "water" },
+        { "id": "ph-4-3", "type": "typing", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "The root 'graph' means to write. What does 'auto' mean in 'autograph'?", "correctAnswer": "self" },
+        { "id": "ph-4-4", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "'Telephone' combines 'tele' (far) and 'phone'. What does 'phone' mean?", "options": ["light", "sound", "write", "see"], "correctAnswer": "sound" },
+        { "id": "ph-4-5", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "The prefix 'anti-' means 'against'", "correctAnswer": "true" },
+        { "id": "ph-4-6", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "The root 'terra' means 'sky'", "correctAnswer": "false" },
+        { "id": "ph-4-7", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "What does the root 'chron' mean in 'chronological'?", "options": ["color", "time", "distance", "number"], "correctAnswer": "time" },
+        { "id": "ph-4-8", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "The suffix '-ology' means:", "options": ["fear of", "study of", "full of", "without"], "correctAnswer": "study of" },
+        { "id": "ph-4-9", "type": "typing", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "What Greek root meaning 'light' is found in 'photograph'?", "correctAnswer": "photo" },
+        { "id": "ph-4-10", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "'Microscope' uses 'micro' (small) and 'scope'. 'Scope' means:", "options": ["to see", "to hear", "to touch", "to measure"], "correctAnswer": "to see" }
+      ]
+    }
+  ]
+}

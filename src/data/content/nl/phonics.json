@@ -1,0 +1,66 @@
+{
+  "module": "phonics",
+  "language": "nl",
+  "levels": [
+    {
+      "id": "phonics-1", "title": "Letterklanken", "description": "Leer de klanken van letters", "ageGroup": "4-6", "difficulty": 1, "requiredCorrect": 7,
+      "questions": [
+        { "id": "ph-1-1", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Welke klank maakt de letter 'B'?", "options": ["buh", "duh", "puh", "guh"], "correctAnswer": "buh" },
+        { "id": "ph-1-2", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Welke letter maakt de klank 'mmm'?", "options": ["M", "N", "L", "R"], "correctAnswer": "M" },
+        { "id": "ph-1-3", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Welk woord begint met 'A'?", "options": ["Appel", "Banaan", "Kers", "Tomaat"], "correctAnswer": "Appel" },
+        { "id": "ph-1-4", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "De letter 'S' maakt de klank 'sss'", "correctAnswer": "true" },
+        { "id": "ph-1-5", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "De letter 'K' maakt de klank 'fff'", "correctAnswer": "false" },
+        { "id": "ph-1-6", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Welk woord begint met dezelfde klank als 'hond'?", "options": ["huis", "muis", "boom", "kat"], "correctAnswer": "huis" },
+        { "id": "ph-1-7", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Welke klank maakt 'T'?", "options": ["tuh", "puh", "kuh", "buh"], "correctAnswer": "tuh" },
+        { "id": "ph-1-8", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Welk woord rijmt op 'muis'?", "options": ["huis", "hond", "kat", "bal"], "correctAnswer": "huis" },
+        { "id": "ph-1-9", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "'Vis' begint met de letter 'V'", "correctAnswer": "true" },
+        { "id": "ph-1-10", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Welk woord rijmt op 'beer'?", "options": ["meer", "hond", "boom", "vis"], "correctAnswer": "meer" }
+      ]
+    },
+    {
+      "id": "phonics-2", "title": "Klanken samenvoegen", "description": "Letters samenvoegen tot woorden", "ageGroup": "7-9", "difficulty": 2, "requiredCorrect": 7,
+      "questions": [
+        { "id": "ph-2-1", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Voeg samen: b-a-l. Welk woord?", "options": ["bal", "bel", "bol", "bil"], "correctAnswer": "bal" },
+        { "id": "ph-2-2", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Voeg samen: sch-oo-l. Welk woord?", "options": ["school", "schoen", "schotel", "schaal"], "correctAnswer": "school" },
+        { "id": "ph-2-3", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Voeg samen: h-o-n-d. Typ het woord:", "correctAnswer": "hond" },
+        { "id": "ph-2-4", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Voeg samen: b-l-oe-m. Typ het woord:", "correctAnswer": "bloem" },
+        { "id": "ph-2-5", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Welk woord heeft de 'sch' klank?", "options": ["schip", "sap", "zand", "zout"], "correctAnswer": "schip" },
+        { "id": "ph-2-6", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Voeg samen: k-a-t", "options": ["kat", "kas", "kar", "kap"], "correctAnswer": "kat" },
+        { "id": "ph-2-7", "type": "true-false", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Samenvoegen b-oo-m geeft 'boom'", "correctAnswer": "true" },
+        { "id": "ph-2-8", "type": "true-false", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Samenvoegen z-o-n geeft 'zee'", "correctAnswer": "false" },
+        { "id": "ph-2-9", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Welk woord heeft 'ei'?", "options": ["steen", "stoel", "ster", "stift"], "correctAnswer": "steen" },
+        { "id": "ph-2-10", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Voeg samen: s-l-a-n-g. Typ het woord:", "correctAnswer": "slang" }
+      ]
+    },
+    {
+      "id": "phonics-3", "title": "Lettergrepen", "description": "Woorden verdelen in lettergrepen", "ageGroup": "10-12", "difficulty": 3, "requiredCorrect": 7,
+      "questions": [
+        { "id": "ph-3-1", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Hoeveel lettergrepen heeft 'vlinder'?", "options": ["2", "3", "4", "1"], "correctAnswer": "2" },
+        { "id": "ph-3-2", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Hoeveel lettergrepen heeft 'olifant'?", "options": ["2", "3", "4", "1"], "correctAnswer": "3" },
+        { "id": "ph-3-3", "type": "typing", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Hoeveel lettergrepen heeft 'computer'? Typ het getal:", "correctAnswer": "3" },
+        { "id": "ph-3-4", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Wat is het voorvoegsel in 'ongelukkig'?", "options": ["on", "geluk", "ig", "ong"], "correctAnswer": "on" },
+        { "id": "ph-3-5", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Welk voorvoegsel betekent 'opnieuw'?", "options": ["her-", "on-", "voor-", "mis-"], "correctAnswer": "her-" },
+        { "id": "ph-3-6", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "'Voorlezen' heeft het voorvoegsel 'voor-'", "correctAnswer": "true" },
+        { "id": "ph-3-7", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Het woord 'hond' heeft twee lettergrepen", "correctAnswer": "false" },
+        { "id": "ph-3-8", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Welk achtervoegsel maakt van 'vriend' een eigenschap?", "options": ["-elijk", "-ung", "-heid", "-nis"], "correctAnswer": "-elijk" },
+        { "id": "ph-3-9", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Welk woord heeft een stomme letter?", "options": ["schoen", "hond", "bal", "muis"], "correctAnswer": "schoen" },
+        { "id": "ph-3-10", "type": "typing", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Wat is de stam van 'leraar'?", "correctAnswer": "leer" }
+      ]
+    },
+    {
+      "id": "phonics-4", "title": "Woordherkomst", "description": "Waar komen onze woorden vandaan?", "ageGroup": "13-15", "difficulty": 4, "requiredCorrect": 7,
+      "questions": [
+        { "id": "ph-4-1", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Uit welke taal komt 'telefoon'?", "options": ["Grieks", "Latijn", "Frans", "Engels"], "correctAnswer": "Grieks" },
+        { "id": "ph-4-2", "type": "typing", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Wat betekent het voorvoegsel 'bio-'?", "correctAnswer": "leven" },
+        { "id": "ph-4-3", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Wat betekent de Latijnse wortel 'scrib'?", "options": ["schrijven", "lezen", "spreken", "horen"], "correctAnswer": "schrijven" },
+        { "id": "ph-4-4", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "'Auto' komt uit het Grieks en betekent 'zelf'", "correctAnswer": "true" },
+        { "id": "ph-4-5", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Wat betekent 'foto' oorspronkelijk?", "options": ["licht", "beeld", "kunst", "kleur"], "correctAnswer": "licht" },
+        { "id": "ph-4-6", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Het voorvoegsel 'anti-' betekent ___", "options": ["tegen", "voor", "met", "zonder"], "correctAnswer": "tegen" },
+        { "id": "ph-4-7", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Welk woord is een anglicisme?", "options": ["computer", "tafel", "stoel", "raam"], "correctAnswer": "computer" },
+        { "id": "ph-4-8", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "'Koekje' (cookie) is een Nederlands woord dat in het Engels is overgenomen", "correctAnswer": "true" },
+        { "id": "ph-4-9", "type": "typing", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Wat betekent de Griekse wortel 'graph'?", "correctAnswer": "schrijven" },
+        { "id": "ph-4-10", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Wat betekent 'micro'?", "options": ["klein", "groot", "snel", "oud"], "correctAnswer": "klein" }
+      ]
+    }
+  ]
+}

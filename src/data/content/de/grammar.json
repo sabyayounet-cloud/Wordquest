@@ -1,0 +1,66 @@
+{
+  "module": "grammar",
+  "language": "de",
+  "levels": [
+    {
+      "id": "gram-1", "title": "Nomen und Verben", "description": "Lerne Nomen und Verben kennen", "ageGroup": "4-6", "difficulty": 1, "requiredCorrect": 7,
+      "questions": [
+        { "id": "gr-1-1", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Welches Wort ist ein Nomen (ein Ding)?", "options": ["Hund", "Rennen", "Schnell", "Froh"], "correctAnswer": "Hund" },
+        { "id": "gr-1-2", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Welches Wort ist eine Tätigkeit (Verb)?", "options": ["Springen", "Ball", "Groß", "Rot"], "correctAnswer": "Springen" },
+        { "id": "gr-1-3", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "'Katze' ist ein Nomen", "correctAnswer": "true" },
+        { "id": "gr-1-4", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "'Singen' ist ein Nomen", "correctAnswer": "false" },
+        { "id": "gr-1-5", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Was ist die Mehrzahl von 'Katze'?", "options": ["Katzen", "Katzes", "Kätze", "Katzens"], "correctAnswer": "Katzen" },
+        { "id": "gr-1-6", "type": "fill-in-blank", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Der Vogel ___ am Himmel", "options": ["fliegt", "blau", "Baum", "groß"], "correctAnswer": "fliegt" },
+        { "id": "gr-1-7", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Welches ist ein Farbwort (Adjektiv)?", "options": ["Blau", "Rennen", "Essen", "Gehen"], "correctAnswer": "Blau" },
+        { "id": "gr-1-8", "type": "fill-in-blank", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Ich ___ einen roten Apfel", "options": ["habe", "groß", "der", "rot"], "correctAnswer": "habe" },
+        { "id": "gr-1-9", "type": "multiple-choice", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "Welches Wort ist eine Person?", "options": ["Lehrer", "Tisch", "Rennen", "Langsam"], "correctAnswer": "Lehrer" },
+        { "id": "gr-1-10", "type": "true-false", "ageGroups": ["4-6"], "difficulty": 1, "prompt": "'Fröhlich' beschreibt ein Gefühl", "correctAnswer": "true" }
+      ]
+    },
+    {
+      "id": "gram-2", "title": "Wortarten", "description": "Adjektive, Adverbien und Pronomen", "ageGroup": "7-9", "difficulty": 2, "requiredCorrect": 7,
+      "questions": [
+        { "id": "gr-2-1", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Welches ist ein Adjektiv?", "options": ["Schön", "Schnell", "Rennen", "Sie"], "correctAnswer": "Schön" },
+        { "id": "gr-2-2", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Welches Pronomen ersetzt 'der Junge'?", "options": ["Er", "Sie", "Es", "Wir"], "correctAnswer": "Er" },
+        { "id": "gr-2-3", "type": "fill-in-blank", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Der Hase lief ___", "options": ["schnell", "froh", "grün", "Tisch"], "correctAnswer": "schnell" },
+        { "id": "gr-2-4", "type": "true-false", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "'Langsam' ist ein Adverb", "correctAnswer": "true" },
+        { "id": "gr-2-5", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Was ist die Vergangenheit von 'gehen'?", "options": ["Ging", "Geht", "Gehte", "Gehend"], "correctAnswer": "Ging" },
+        { "id": "gr-2-6", "type": "typing", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Was ist die Vergangenheit von 'laufen'?", "correctAnswer": "lief" },
+        { "id": "gr-2-7", "type": "fill-in-blank", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "___ gehen in den Park", "options": ["Wir", "Uns", "Unser", "Unsere"], "correctAnswer": "Wir" },
+        { "id": "gr-2-8", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Welcher Satz ist richtig?", "options": ["Sie ist größer als ich.", "Sie ist mehr größer als ich.", "Sie ist größter als ich.", "Sie ist groß als ich."], "correctAnswer": "Sie ist größer als ich." },
+        { "id": "gr-2-9", "type": "true-false", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "'Der', 'die' und 'das' sind Artikel", "correctAnswer": "true" },
+        { "id": "gr-2-10", "type": "multiple-choice", "ageGroups": ["7-9"], "difficulty": 2, "prompt": "Welchen Artikel hat 'Haus'?", "options": ["Das", "Der", "Die", "Den"], "correctAnswer": "Das" }
+      ]
+    },
+    {
+      "id": "gram-3", "title": "Zeiten und Fälle", "description": "Verbzeiten und Kasus meistern", "ageGroup": "10-12", "difficulty": 3, "requiredCorrect": 7,
+      "questions": [
+        { "id": "gr-3-1", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Welches ist Perfekt?", "options": ["Ich habe gegessen.", "Ich esse.", "Ich aß.", "Ich werde essen."], "correctAnswer": "Ich habe gegessen." },
+        { "id": "gr-3-2", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Sie ___ seit einer Stunde gewartet", "options": ["hat", "haben", "ist", "sind"], "correctAnswer": "hat" },
+        { "id": "gr-3-3", "type": "typing", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "In welcher Zeitform: 'Ich werde laufen'?", "correctAnswer": "Futur" },
+        { "id": "gr-3-4", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Welcher Fall beantwortet 'Wen oder was?'", "options": ["Akkusativ", "Nominativ", "Dativ", "Genitiv"], "correctAnswer": "Akkusativ" },
+        { "id": "gr-3-5", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Der Dativ beantwortet die Frage 'Wem?'", "correctAnswer": "true" },
+        { "id": "gr-3-6", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Wenn ich du ___, würde ich mehr lernen", "options": ["wäre", "war", "bin", "ist"], "correctAnswer": "wäre" },
+        { "id": "gr-3-7", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Was ist eine Präposition?", "options": ["Ein Wort, das Position zeigt", "Ein Namenwort", "Ein Tuwort", "Ein Eigenschaftswort"], "correctAnswer": "Ein Wort, das Position zeigt" },
+        { "id": "gr-3-8", "type": "fill-in-blank", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Das Buch liegt ___ dem Tisch", "options": ["auf", "essen", "froh", "rennen"], "correctAnswer": "auf" },
+        { "id": "gr-3-9", "type": "true-false", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Eine Konjunktion verbindet Wörter oder Sätze", "correctAnswer": "true" },
+        { "id": "gr-3-10", "type": "multiple-choice", "ageGroups": ["10-12"], "difficulty": 3, "prompt": "Wie viele Fälle hat die deutsche Sprache?", "options": ["4", "3", "5", "6"], "correctAnswer": "4" }
+      ]
+    },
+    {
+      "id": "gram-4", "title": "Fortgeschrittene Grammatik", "description": "Komplexe Grammatikregeln", "ageGroup": "13-15", "difficulty": 4, "requiredCorrect": 7,
+      "questions": [
+        { "id": "gr-4-1", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Welcher Satz nutzt den Konjunktiv II?", "options": ["Wenn ich reich wäre, würde ich reisen.", "Wenn ich reich bin, reise ich.", "Ich bin reich und reise.", "Ich war reich und reiste."], "correctAnswer": "Wenn ich reich wäre, würde ich reisen." },
+        { "id": "gr-4-2", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Das Komitee ___ in der Frage gespalten", "options": ["war", "waren", "ist gewesen", "sind geworden"], "correctAnswer": "war" },
+        { "id": "gr-4-3", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Das Semikolon verbindet zwei Hauptsätze", "correctAnswer": "true" },
+        { "id": "gr-4-4", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Was ist ein Infinitivsatz?", "options": ["Ein Satz mit 'zu' + Verb", "Ein Fragesatz", "Ein Ausrufesatz", "Ein Befehlssatz"], "correctAnswer": "Ein Satz mit 'zu' + Verb" },
+        { "id": "gr-4-5", "type": "typing", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Wie nennt man einen Satz, der einen anderen näher beschreibt? (R___satz)", "correctAnswer": "Relativsatz" },
+        { "id": "gr-4-6", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Welches Relativpronomen ist richtig? 'Der Lehrer, ___ mir half, war nett.'", "options": ["der", "den", "dem", "dessen"], "correctAnswer": "der" },
+        { "id": "gr-4-7", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Die Daten ___ über fünf Jahre gesammelt", "options": ["wurden", "wurde", "ist", "hat"], "correctAnswer": "wurden" },
+        { "id": "gr-4-8", "type": "true-false", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Im Deutschen steht das Verb im Nebensatz am Ende", "correctAnswer": "true" },
+        { "id": "gr-4-9", "type": "multiple-choice", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Was ist ein Hauptsatz?", "options": ["Ein Satz, der alleine stehen kann.", "Ein Satz, der mit 'weil' beginnt.", "Ein Satz, der mit 'obwohl' beginnt.", "Ein Satz mit 'wenn'."], "correctAnswer": "Ein Satz, der alleine stehen kann." },
+        { "id": "gr-4-10", "type": "fill-in-blank", "ageGroups": ["13-15"], "difficulty": 4, "prompt": "Weder die Schüler noch der Lehrer ___ von der Änderung informiert", "options": ["war", "waren", "sind", "gewesen"], "correctAnswer": "war" }
+      ]
+    }
+  ]
+}
